@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html expr:dir='data:blog.languageDirection' lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>&lt;!--<head>--&gt;&lt;head&gt;<b:if cond='data:view.isHomepage || data:view.isSingleItem'><meta content='index,follow' name='robots'/><b:else/><meta content='noindex,follow' name='robots'/></b:if><meta charset='UTF-8'/><meta content='width=device-width,minimum-scale=1,initial-scale=1' name='viewport'/>
+<meta content='dHgwak9PMTFLYXlQRm9tN1ZMb0Z5dz090' name='dmca-site-verification'/>
+<meta content='IE=9; IE=8; IE=7; IE=EDGE; chrome=1' http-equiv='X-UA-Compatible'/>
+<link crossorigin='' href='https://gistcdn.rawgit.org' rel='preconnect dns-prefetch'/>
+<link crossorigin='' href='https://ghcdn.rawgit.org' rel='preconnect dns-prefetch'/>
+<link crossorigin='' href='https://cdn.statically.io' rel='preconnect dns-prefetch'/>
+<link crossorigin='' href='https://3.bp.blogspot.com' rel='preconnect dns-prefetch'/>
+<link crossorigin='' href='https://4.bp.blogspot.com' rel='preconnect dns-prefetch'/>
+<link crossorigin='' href='https://www.googletagmanager.com' rel='preconnect dns-prefetch'/>
+<link crossorigin='' href='https://cdn.jsdelivr.net' rel='preconnect dns-prefetch'/>
+<link href='https://www.fahru.my.id/feeds/posts/default' rel='alternate' title='www.fahru.my.id - Atom' type='application/atom+xml'/>
+<link href='https://www.fahru.my.id/feeds/posts/default?alt=rss' rel='alternate' title='www.fahru.my.id - RSS' type='application/rss+xml'/>
+<link expr:href='data:blog.url' rel='canonical'/>
+<link expr:href='data:blog.homepageUrl + &quot;favicon.ico&quot;' rel='icon' type='image/x-icon'/>
+<meta content='2219194634994182' property='fb:app_id'/><meta expr:content='data:blog.url' property='og:url'/>
+<b:if cond='data:view.isHomepage'>
+    <title><data:blog.title/> - Blogging Untuk Mengikat Ilmu.</title>
+    <meta content='Blog berisi kumpulan artikel mengenai tutorial belajar pemrograman dan opini programmer yang akan meningkatkan wawasan anda.' name='description'/>
+    <meta content='Blog berisi kumpulan artikel mengenai tutorial belajar pemrograman dan opini programmer yang akan meningkatkan wawasan anda.' property='og:description'/>
+    <meta expr:content='data:blog.title - Blogging Untuk Mengikat Ilmu.' property='og:image:alt'/>
+  <meta content='website' property='og:type'/>
+  &lt;meta content=&#39;<data:blog.title/> - Blogging Untuk Mengikat Ilmu.&#39; property=&#39;og:title&#39;/&gt;
+<b:else/>
+    <b:if cond='data:blog.pageType == &quot;error_page&quot;'>
+        <title>404: Page Not Found | <data:blog.title/></title>
+      <script>
+      window.location.replace(&quot;<data:blog.homepageUrl/>&quot;);
+      </script>
+    <b:else/>
+        <title><data:blog.pageName/></title>
+    </b:if>
+</b:if>
+<b:if cond='data:view.isSingleItem'>
+    <b:if cond='data:blog.postImageThumbnailUrl'>
+        <link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
+    </b:if>
+    &lt;meta content=&#39;<data:blog.pageName/> - <data:blog.title/>&#39; property=&#39;og:title&#39;/&gt;
+  
+  <b:if cond='data:blog.postImageUrl'>
+      <meta expr:content='data:blog.postImageUrl' property='og:image'/>
+  <b:else/>
+      <b:if cond='data:blog.postImageThumbnailUrl'>
+          <meta expr:content='data:blog.postThumbnailUrl' property='og:image'/>
+      <b:else/>
+          &lt;meta content=&#39;https://textoverimage.moesif.com/image?image_url=https%3A%2F%2F4.bp.blogspot.com%2F-buXCsrphWUk%2FYK245Q_ibRI%2FAAAAAAAAAiU%2FbwIyn724T9kFd_6IPvL0bLnWPRHBkFxGwCLcBGAsYHQ%2Fs1366%2Fblog-share.png&amp;text=<data:blog.pageName/> - <data:blog.title/>&amp;text_size=64&amp;y_align=middle&amp;x_align=center&#39; property=&#39;og:image&#39;/&gt;
+      </b:if>
+  </b:if>
+  &lt;meta content=&#39;<data:blog.pageName/>&#39; property=&#39;og:image:alt&#39;/&gt;
+    <meta content='article' property='og:type'/>
+    <b:if cond='data:blog.metaDescription != &quot;&quot;'>
+        <meta expr:content='data:blog.metaDescription' name='description'/>
+        <meta expr:content='data:blog.metaDescription' property='og:description'/>
+    <b:else/>
+      <meta expr:content='data:blog.pageName + &quot; - &quot; + data:blog.title' name='description'/>
+      <meta expr:content='data:blog.pageName + &quot; - &quot; + data:blog.title' property='og:description'/>
+    </b:if>
+  <b:else/>
+  &lt;meta content=&#39;https://textoverimage.moesif.com/image?image_url=https%3A%2F%2F4.bp.blogspot.com%2F-buXCsrphWUk%2FYK245Q_ibRI%2FAAAAAAAAAiU%2FbwIyn724T9kFd_6IPvL0bLnWPRHBkFxGwCLcBGAsYHQ%2Fs1366%2Fblog-share.png&amp;text=<data:blog.title/> - Blogging Untuk Mengikat Ilmu.&amp;text_size=64&amp;y_align=middle&amp;x_align=center&#39; property=&#39;og:image&#39;/&gt;
+</b:if>
+<meta expr:content='data:blog.title' property='og:site_name'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s57/fahrumyid.png' rel='apple-touch-icon' sizes='57x57'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s60/fahrumyid.png' rel='apple-touch-icon' sizes='60x60'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s72/fahrumyid.png' rel='apple-touch-icon' sizes='72x72'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s76/fahrumyid.png' rel='apple-touch-icon' sizes='76x76'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s114/fahrumyid.png' rel='apple-touch-icon' sizes='114x114'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s120/fahrumyid.png' rel='apple-touch-icon' sizes='120x120'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s144/fahrumyid.png' rel='apple-touch-icon' sizes='144x144'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s152/fahrumyid.png' rel='apple-touch-icon' sizes='152x152'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s180/fahrumyid.png' rel='apple-touch-icon' sizes='180x180'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s192/fahrumyid.png' rel='icon' sizes='192x192' type='image/png'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s32/fahrumyid.png' rel='icon' sizes='32x32' type='image/png'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s96/fahrumyid.png' rel='icon' sizes='96x96' type='image/png'/>
+<link href='https://4.bp.blogspot.com/-GUdmxFTRQ6c/YI_b_Jl0v-I/AAAAAAAAAOo/B8RSj6DjEEkXfLdzt9xwHQRSmd3rPlBegCLcBGAsYHQ/s16/fahrumyid.png' rel='icon' sizes='16x16' type='image/png'/>
+<b:skin><![CDATA[
+/* ======================================
+      Name      : Tailwind CSS
+      Version   : 2.1.2
+      Licence   : MIT License
+      Website   : https://tailwindcss.com
+      ========================================= */
+      :root{--light:#edf2f9;--dark:#152e4d;--darker:#12263f;--color-primary:var(--color-cyan);--color-primary-50:var(--color-cyan-50);--color-primary-100:var(--color-cyan-100);--color-primary-light:var(--color-cyan-light);--color-primary-lighter:var(--color-cyan-lighter);--color-primary-dark:var(--color-cyan-dark);--color-primary-darker:var(--color-cyan-darker);--color-green:#16a34a;--color-green-50:#f0fdf4;--color-green-100:#dcfce7;--color-green-light:#22c55e;--color-green-lighter:#4ade80;--color-green-dark:#15803d;--color-green-darker:#166534;--color-blue:#2563eb;--color-blue-50:#eff6ff;--color-blue-100:#dbeafe;--color-blue-light:#3b82f6;--color-blue-lighter:#60a5fa;--color-blue-dark:#1d4ed8;--color-blue-darker:#1e40af;--color-cyan:#0891b2;--color-cyan-50:#ecfeff;--color-cyan-100:#cffafe;--color-cyan-light:#06b6d4;--color-cyan-lighter:#22d3ee;--color-cyan-dark:#0e7490;--color-cyan-darker:#155e75;--color-teal:#0d9488;--color-teal-50:#f0fdfa;--color-teal-100:#ccfbf1;--color-teal-light:#14b8a6;--color-teal-lighter:#2dd4bf;--color-teal-dark:#0f766e;--color-teal-darker:#115e59;--color-fuchsia:#c026d3;--color-fuchsia-50:#fdf4ff;--color-fuchsia-100:#fae8ff;--color-fuchsia-light:#d946ef;--color-fuchsia-lighter:#e879f9;--color-fuchsia-dark:#a21caf;--color-fuchsia-darker:#86198f;--color-violet:#7c3aed;--color-violet-50:#f5f3ff;--color-violet-100:#ede9fe;--color-violet-light:#8b5cf6;--color-violet-lighter:#a78bfa;--color-violet-dark:#6d28d9;--color-violet-darker:#5b21b6;-moz-tab-size:4;-o-tab-size:4;tab-size:4}html{-webkit-text-size-adjust:100%;line-height:1.15}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;margin:0}abbr[title]{-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}::-moz-focus-inner{border-style:none;padding:0}:-moz-focusring{outline:1px dotted ButtonText}:-moz-ui-invalid{box-shadow:none}legend{padding:0}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}button{background-color:transparent;background-image:none}button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}fieldset,ol,ul{margin:0;padding:0}ol,ul{list-style:none}html{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}body{font-family:inherit;line-height:inherit}*,:after,:before{border:0 solid #e5e7eb;box-sizing:border-box}hr{border-top-width:1px}img{border-style:solid}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}table{border-collapse:collapse}a{color:inherit;text-decoration:inherit}button,input,optgroup,select,textarea{color:inherit;line-height:inherit;padding:0}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}*{--tw-shadow:0 0 transparent;--tw-ring-inset:var(--tw-empty,/*!*/ /*!*/);--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,0.5);--tw-ring-offset-shadow:0 0 transparent;--tw-ring-shadow:0 0 transparent}.toggle:checked+span{background-color:var(--color-primary);left:1.5rem;top:0}.toggle:disabled+span{--tw-bg-opacity:1;--tw-shadow:0 0 transparent;background-color:rgba(107,114,128,var(--tw-bg-opacity));box-shadow:var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow)}.toggle:checked:disabled{--tw-bg-opacity:1;background-color:rgba(229,231,235,var(--tw-bg-opacity))}.toggle:checked:disabled+span{--tw-shadow:0 0 transparent;background-color:var(--color-primary-lighter);box-shadow:var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow)}.toggle:focus+span{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);--tw-ring-color:var(--color-primary-lighter);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 transparent)}.sr-only{clip:rect(0,0,0,0);border-width:0;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}.fixed{position:fixed}.relative{position:relative}.absolute{position:absolute}.inset-0{bottom:0;left:0;right:0;top:0}.inset-x-4{left:1rem;right:1rem}.inset-y-0{bottom:0;top:0}.top-0{top:0}.left-0{left:0}.top-16{top:4rem}.right-0{right:0}.z-50{z-index:50}.z-10{z-index:10}.z-20{z-index:20}.m-1{margin:.25rem}.m-0{margin:0}.mx-auto{margin-left:auto;margin-right:auto}.my-2{margin-bottom:.5rem;margin-top:.5rem}.ml-2{margin-left:.5rem}.ml-auto{margin-left:auto}.mt-0{margin-top:0px}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.mb-2{margin-bottom:.5rem}.mb-4{margin-bottom:1rem}.mt-4{margin-top:1rem}.mr-1{margin-right:.25rem}.-mt-16{margin-top:-4rem}.block{display:block}.inline-block{display:inline-block}.flex{display:flex}.inline-flex{display:inline-flex}.table{display:table}.grid{display:grid}.hidden{display:none}.h-screen{height:100vh}.h-full{height:100%}.h-5{height:1.25rem}.h-4{height:1rem}.h-8{height:2rem}.h-6{height:1.5rem}.h-7{height:1.75rem}.h-auto{height:auto}.h-10{height:2.5rem}.w-64{width:16rem}.w-5{width:1.25rem}.w-4{width:1rem}.w-full{width:100%}.w-8{width:2rem}.w-12{width:3rem}.w-6{width:1.5rem}.w-7{width:1.75rem}.w-10{width:2.5rem}.max-w-xs{max-width:20rem}.flex-1{flex:1 1 0%}.flex-shrink-0{flex-shrink:0}.transform{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;transform:translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.translate-x-0{--tw-translate-x:0px}.-translate-y-px{--tw-translate-y:-1px}.translate-x-6{--tw-translate-x:1.5rem}.-translate-y-full{--tw-translate-y:-100%}.translate-y-0{--tw-translate-y:0px}.translate-x-full{--tw-translate-x:100%}.-translate-x-full{--tw-translate-x:-100%}.rotate-180{--tw-rotate:180deg}.scale-110{--tw-scale-x:1.1;--tw-scale-y:1.1}.cursor-pointer{cursor:pointer}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.flex-col{flex-direction:column}.items-center{align-items:center}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.justify-end{justify-content:flex-end}.space-y-2>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.5rem*var(--tw-space-y-reverse));margin-top:calc(.5rem*(1 - var(--tw-space-y-reverse)))}.space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.5rem*var(--tw-space-x-reverse))}.space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(1rem*var(--tw-space-y-reverse));margin-top:calc(1rem*(1 - var(--tw-space-y-reverse)))}.space-x-8>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(2rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(2rem*var(--tw-space-x-reverse))}.space-x-4>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(1rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(1rem*var(--tw-space-x-reverse))}.divide-y>:not([hidden])~:not([hidden]){--tw-divide-y-reverse:0;border-bottom-width:calc(1px*var(--tw-divide-y-reverse));border-top-width:calc(1px*(1 - var(--tw-divide-y-reverse)))}.divide-gray-300>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(209,213,219,var(--tw-divide-opacity))}.overflow-y-hidden{overflow-y:hidden}.overflow-x-hidden{overflow-x:hidden}.overflow-y-auto{overflow-y:auto}.overflow-auto{overflow:auto}.overflow-hidden{overflow:hidden}.whitespace-pre-wrap{white-space:pre-wrap}.rounded-md{border-radius:.375rem}.rounded-full{border-radius:9999px}.rounded-lg{border-radius:.5rem}.rounded-xl{border-radius:.75rem}.rounded{border-radius:.25rem}.border{border-width:1px}.border-r{border-right-width:1px}.border-b{border-bottom-width:1px}.border-t{border-top-width:1px}.border-gray-900{--tw-border-opacity:1;border-color:rgba(17,24,39,var(--tw-border-opacity))}.bg-gray-100{--tw-bg-opacity:1;background-color:rgba(243,244,246,var(--tw-bg-opacity))}.bg-primary-darker{background-color:var(--color-primary-darker)}.bg-white{--tw-bg-opacity:1;background-color:rgba(255,255,255,var(--tw-bg-opacity))}.bg-primary-100{background-color:var(--color-primary-100)}.bg-primary{background-color:var(--color-primary)}.bg-primary-50{background-color:var(--color-primary-50)}.bg-light{background-color:var(--light)}.p-2{padding:.5rem}.p-1{padding:.25rem}.p-4{padding:1rem}.px-2{padding-left:.5rem;padding-right:.5rem}.py-4{padding-bottom:1rem;padding-top:1rem}.px-4{padding-left:1rem;padding-right:1rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.py-3{padding-bottom:.75rem;padding-top:.75rem}.py-1{padding-bottom:.25rem;padding-top:.25rem}.py-8{padding-bottom:2rem;padding-top:2rem}.text-left{text-align:left}.text-2xl{font-size:1.5rem;line-height:2rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-lg{font-size:1.125rem}.text-lg,.text-xl{line-height:1.75rem}.text-xl{font-size:1.25rem}.font-semibold{font-weight:600}.font-bold{font-weight:700}.font-light{font-weight:300}.font-medium{font-weight:500}.uppercase{text-transform:uppercase}.tracking-wider{letter-spacing:.05em}.text-gray-900{--tw-text-opacity:1;color:rgba(17,24,39,var(--tw-text-opacity))}.text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.text-gray-700{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgba(156,163,175,var(--tw-text-opacity))}.text-primary-lighter{color:var(--color-primary-lighter)}.text-primary-dark{color:var(--color-primary-dark)}.text-primary-100{color:var(--color-primary-100)}.text-gray-800{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.opacity-0{opacity:0}.opacity-100{opacity:1}.shadow-sm{--tw-shadow:0 1px 2px 0 rgba(0,0,0,0.05)}.shadow-lg,.shadow-sm{box-shadow:var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow)}.shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}.shadow-md{--tw-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06)}.shadow-md,.shadow-xl{box-shadow:var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow)}.shadow-xl{--tw-shadow:0 20px 25px -5px rgba(0,0,0,0.1),0 10px 10px -5px rgba(0,0,0,0.04)}.outline-none{outline:2px solid transparent;outline-offset:2px}.transition-colors{transition-duration:.15s;transition-property:background-color,border-color,color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-transform{transition-duration:.15s;transition-property:transform;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition{transition-duration:.15s;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-all{transition-duration:.15s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.duration-200{transition-duration:.2s}.duration-150{transition-duration:.15s}.duration-300{transition-duration:.3s}.ease-in-out{transition-timing-function:cubic-bezier(.4,0,.2,1)}.hljs,.hljs-subst{color:#444}.hljs-comment{color:#585858}.hljs-attribute,.hljs-doctag,.hljs-keyword,.hljs-meta-keyword,.hljs-name,.hljs-selector-tag{font-weight:700}.hljs-deletion,.hljs-number,.hljs-quote,.hljs-selector-class,.hljs-selector-id,.hljs-string,.hljs-template-tag,.hljs-type{color:#800}.hljs-section,.hljs-title{color:#800;font-weight:700}.hljs-link,.hljs-regexp,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-symbol,.hljs-template-variable,.hljs-variable{color:#bc6060}.hljs-literal{color:#78a960}.hljs-addition,.hljs-built_in,.hljs-bullet,.hljs-code{color:#397300}.hljs-meta{color:#1f7199}.hljs-meta-string{color:#4d99bf}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}code{font-family:monospace;font-size:1.05em}.entry-content table>*>tr{border-bottom:1px solid #ccc}[x-cloak]{display:none!important}a.facebook{background-color:#3b5999}a.twitter{background-color:#00abf0}a.pinterest{background-color:#cd1c1f}a.linkedin{background-color:#2554bf}a.telegram{background-color:#32AFED}.hover\:overflow-y-auto:hover{overflow-y:auto}.hover\:border-gray-900:hover{--tw-border-opacity:1;border-color:rgba(17,24,39,var(--tw-border-opacity))}.hover\:bg-primary-100:hover{background-color:var(--color-primary-100)}.hover\:bg-primary-dark:hover{background-color:var(--color-primary-dark)}.hover\:font-bold:hover{font-weight:700}.hover\:text-primary:hover{color:var(--color-primary)}.hover\:text-gray-900:hover{--tw-text-opacity:1;color:rgba(17,24,39,var(--tw-text-opacity))}.hover\:underline:hover{text-decoration:underline}.hover\:shadow-2xl:hover{--tw-shadow:0 25px 50px -12px rgba(0,0,0,0.25);box-shadow:var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow)}.focus\:bg-primary-100:focus{background-color:var(--color-primary-100)}.focus\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.focus\:ring:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 transparent)}.focus\:ring-primary-dark:focus{--tw-ring-color:var(--color-primary-dark)}.focus\:ring-primary-darker:focus{--tw-ring-color:var(--color-primary-darker)}.focus\:ring-primary-lighter:focus{--tw-ring-color:var(--color-primary-lighter)}.focus\:ring-offset-1:focus{--tw-ring-offset-width:1px}.focus\:ring-offset-2:focus{--tw-ring-offset-width:2px}.focus\:ring-offset-white:focus{--tw-ring-offset-color:#fff}.dark .dark\:border-primary-darker{border-color:var(--color-primary-darker)}.dark .dark\:border-primary{border-color:var(--color-primary)}.dark .dark\:border-primary-dark{border-color:var(--color-primary-dark)}.dark .dark\:border-primary-light{border-color:var(--color-primary-light)}.dark .dark\:bg-dark{background-color:var(--dark)}.dark .dark\:bg-darker{background-color:var(--darker)}.dark .dark\:bg-primary{background-color:var(--color-primary)}.dark .dark\:bg-primary-lighter{background-color:var(--color-primary-lighter)}.dark .dark\:text-light{color:var(--light)}.dark .dark\:text-gray-400{--tw-text-opacity:1;color:rgba(156,163,175,var(--tw-text-opacity))}.dark .dark\:text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.dark .dark\:text-primary{color:var(--color-primary)}.dark .dark\:text-primary-100{color:var(--color-primary-100)}.dark .dark\:text-primary-light{color:var(--color-primary-light)}.dark .dark\:hover\:border-primary-light:hover{border-color:var(--color-primary-light)}.dark .dark\:hover\:bg-primary:hover{background-color:var(--color-primary)}.dark .dark\:hover\:bg-primary-dark:hover{background-color:var(--color-primary-dark)}.dark .dark\:hover\:text-light:hover{color:var(--light)}.dark .dark\:hover\:text-primary-100:hover{color:var(--color-primary-100)}.dark .dark\:focus\:bg-primary-dark:focus{background-color:var(--color-primary-dark)}.dark .dark\:focus\:ring-primary-dark:focus{--tw-ring-color:var(--color-primary-dark)}.dark .dark\:focus\:ring-offset-dark:focus{--tw-ring-offset-color:var(--dark)}@media (min-width:640px){.sm\:max-w-md{max-width:28rem}.sm\:duration-500{transition-duration:.5s}}@media (min-width:768px){.md\:block{display:block}.md\:flex{display:flex}.md\:hidden{display:none}.md\:items-center{align-items:center}.md\:p-8{padding:2rem}}@media (min-width:1024px){.lg\:hidden{display:none}.lg\:m-0{margin:0}.lg\:flex{display:flex}.lg\:h-screen{height:100vh}.lg\:w-2\/3{width:66.666667%}.lg\:w-1\/3{width:33.333333%}.lg\:space-y-0>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(0px*var(--tw-space-y-reverse));margin-top:calc(0px*(1 - var(--tw-space-y-reverse)))}.lg\:overflow-y-auto{overflow-y:auto}.lg\:px-10{padding-left:2.5rem;padding-right:2.5rem}.lg\:py-6{padding-bottom:1.5rem;padding-top:1.5rem}}article .post ol{list-style-type: decimal;margin: revert;padding: revert;}article .post ul{list-style-type: disc;margin: revert;padding: revert;}::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:#f1f1f1}::-webkit-scrollbar-thumb{background:#2563eb}::-webkit-scrollbar-thumb:hover{background:#1e40af}
+]]></b:skin>
+<script type='application/ld+json'>
+      {
+        &quot;@context&quot;: &quot;https://schema.org&quot;,
+        &quot;@type&quot;: &quot;WebSite&quot;,
+        &quot;url&quot;: &quot;https://www.fahru.my.id/&quot;,
+        &quot;name&quot;: &quot;www.fahru.my.id&quot;,
+        &quot;alternateName&quot;: &quot;Fahru My ID&quot;,
+        &quot;potentialAction&quot;: {
+          &quot;@type&quot;: &quot;SearchAction&quot;,
+          &quot;target&quot;: &quot;https://www.fahru.my.id/search?q={search_term_string}&amp;max-results=8&quot;,
+          &quot;query-input&quot;: &quot;required name=search_term_string&quot;
+        }
+      }
+</script>
+<script async='async' src='https://cdn.jsdelivr.net/gh/alpine-collective/alpine-magic-helpers@0.5.x/dist/component.min.js'/>
+<script async='async' src='https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js'/><script type='text/javascript'>!function(t,e){&quot;use strict&quot;;t=t||&quot;docReady&quot;,e=e||window;var n=[],o=!1,d=!1;function a(){if(!o){o=!0;for(var t=0;t&lt;n.length;t++)n[t].fn.call(window,n[t].ctx);n=[]}}function c(){&quot;complete&quot;===document.readyState&amp;&amp;a()}e[t]=function(t,e){if(&quot;function&quot;!=typeof t)throw new TypeError(&quot;callback for docReady(fn) must be a function&quot;);o?setTimeout(function(){t(e)},1):(n.push({fn:t,ctx:e}),&quot;complete&quot;===document.readyState||!document.attachEvent&amp;&amp;&quot;interactive&quot;===document.readyState?setTimeout(a,1):d||(document.addEventListener?(document.addEventListener(&quot;DOMContentLoaded&quot;,a,!1),window.addEventListener(&quot;load&quot;,a,!1)):(document.attachEvent(&quot;onreadystatechange&quot;,c),window.attachEvent(&quot;onload&quot;,a)),d=!0))}}(&quot;docReady&quot;,window);function initTheme(){var currTheme=!1;window.localStorage.getItem(&quot;dark&quot;)&amp;&amp;(currTheme=JSON.parse(window.localStorage.getItem(&quot;dark&quot;))),document.getElementById(&quot;set-theme&quot;).classList.toggle(&quot;dark&quot;,currTheme)}function toggleCurrTheme(){document.getElementById(&quot;set-theme&quot;).classList.toggle(&quot;dark&quot;)};</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-5S28099XES' type='text/javascript'/>
+<script type='text/javascript'>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;G-5S28099XES&#39;);
+  </script>
+<b:if cond='data:view.isSingleItem'>
+  <script async='async' data-ad-client='ca-pub-2337694132800609' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>
+</b:if>
+<b:if cond='data:view.isHomepage'>
+  <script async='async' data-ad-client='ca-pub-2337694132800609' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>
+</b:if>
+  <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version=&#39;2.0&#39;;
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,&#39;script&#39;,
+&#39;https://connect.facebook.net/en_US/fbevents.js&#39;);
+fbq(&#39;init&#39;, &#39;215278752396342&#39;);
+fbq(&#39;track&#39;, &#39;PageView&#39;);
+</script>
+<!-- End Facebook Pixel Code --></head>
+<body>
+  <div id='fb-root'/>
+  <div id='set-theme' x-data='setup()' x-init='setColors(color);'>
+    <script>initTheme();</script>
+    <div class='flex h-screen antialiased text-gray-900 bg-gray-100 dark:bg-dark dark:text-light'>
+            <!-- Loading screen 
+      <div class='fixed inset-0 z-50 flex items-center justify-center text-2xl font-semibold text-white bg-primary-darker' x-ref='loading'>
+        Loading...
+      </div>      -->
+      <!-- Sidebar -->
+      &lt;aside class=&#39;flex-shrink-0 hidden w-64 bg-white border-r dark:border-primary-darker dark:bg-darker md:block&#39;&gt;
+        &lt;div class=&#39;flex flex-col h-full&#39; x-cloak&gt;
+          <!-- Sidebar links -->
+          &lt;nav aria-label=&#39;Main&#39; class=&#39;flex-1 px-2 py-4 space-y-2 overflow-y-hidden hover:overflow-y-auto&#39;&gt;
+            <!-- Dashboards links -->
+              <!-- active & hover classes 'bg-primary-100 dark:bg-primary' -->
+              <a class='border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary' expr:href='data:blog.homepageUrl' role='button' title='Beranda'>
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Beranda </span>
+              </a>
+            <!-- Pages links -->
+            <div x-data='{ isActive: false, open: false }'>
+              <!-- active classes 'bg-primary-100 dark:bg-primary' -->
+              &lt;a href=&quot;#&quot; @click=&quot;$event.preventDefault(); open = !open&quot;
+                class=&quot;border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary&quot;
+                :class=&quot;{ &#39;bg-primary-100 dark:bg-primary&#39;: isActive || open }&quot; role=&quot;button&quot; aria-haspopup=&quot;true&quot;
+                :aria-expanded=&quot;(open || isActive) ? &#39;true&#39; : &#39;false&#39;&quot;&gt;
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Laman </span>
+                <span aria-hidden='true' class='ml-auto'>
+                  <!-- active class 'rotate-180' -->
+                  <svg :class='{ &quot;rotate-180&quot;: open }' class='w-4 h-4 transition-transform transform' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M19 9l-7 7-7-7' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+              &lt;/a&gt;
+              <div arial-label='Laman' class='mt-2 space-y-2 px-2' role='menu' x-show='open'>
+                <!-- active & hover classes 'text-gray-700 dark:text-light' -->
+                <!-- inActive classes 'text-gray-400 dark:text-gray-400' -->
+              <a class='border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary' href='https://www.fahru.my.id/p/privacy-policy.html' role='menuitem' title='Privacy Policy'>
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Privacy Policy </span>
+              </a>
+             
+                              &lt;a class=&#39;border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary&#39; href=&#39;https://www.blogger.com/follow.g?blogID=3085579493387823813&#39; onclick=&quot;window.open(this.href,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=768,height=640&#39;);return false;&quot; rel=&#39;nofollow&#39; role=&#39;menuitem&#39; title=&#39;Ikuti Blog www.fahru.my.id&#39;&gt;
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Ikuti Blog Ini </span>
+              &lt;/a&gt;
+              </div>
+            </div>
+              <a class='border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary' href='https://telegram.me/s/FahruMyID' rel='noopener' role='menuitem' target='_blank' title='Telegram Channel Fahru My ID'>
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M22.05 1.577c-.393-.016-.784.08-1.117.235-.484.186-4.92 1.902-9.41 3.64-2.26.873-4.518 1.746-6.256 2.415-1.737.67-3.045 1.168-3.114 1.192-.46.16-1.082.362-1.61.984-.133.155-.267.354-.335.628s-.038.622.095.895c.265.547.714.773 1.244.976 1.76.564 3.58 1.102 5.087 1.608.556 1.96 1.09 3.927 1.618 5.89.174.394.553.54.944.544l-.002.02s.307.03.606-.042c.3-.07.677-.244 1.02-.565.377-.354 1.4-1.36 1.98-1.928l4.37 3.226.035.02s.484.34 1.192.388c.354.024.82-.044 1.22-.337.403-.294.67-.767.795-1.307.374-1.63 2.853-13.427 3.276-15.38l-.012.046c.296-1.1.187-2.108-.496-2.705-.342-.297-.736-.427-1.13-.444zm-.118 1.874c.027.025.025.025.002.027-.007-.002.08.118-.09.755l-.007.024-.005.022c-.432 1.997-2.936 13.9-3.27 15.356-.046.196-.065.182-.054.17-.1-.015-.285-.094-.3-.1l-7.48-5.525c2.562-2.467 5.182-4.7 7.827-7.08.468-.235.39-.96-.17-.972-.594.14-1.095.567-1.64.84-3.132 1.858-6.332 3.492-9.43 5.406-1.59-.553-3.177-1.012-4.643-1.467 1.272-.51 2.283-.886 3.278-1.27 1.738-.67 3.996-1.54 6.256-2.415 4.522-1.748 9.07-3.51 9.465-3.662l.032-.013.03-.013c.11-.05.173-.055.202-.057 0 0-.01-.033-.002-.026zM10.02 16.016l1.234.912c-.532.52-1.035 1.01-1.398 1.36z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Telegram Channel </span>
+              </a>
+          &lt;/nav&gt;
+          <!-- Sidebar footer -->
+          <div class='flex-shrink-0 px-2 py-4 space-y-2'>
+            <a class='flex items-center justify-center w-full px-4 py-2 text-sm text-white rounded-md bg-primary hover:bg-primary-dark focus:outline-none focus:ring focus:ring-primary-dark focus:ring-offset-1 focus:ring-offset-white dark:focus:ring-offset-dark' href='https://www.fahru.my.id/p/daftar-isi.html' type='button'>
+              <span aria-hidden='true'>
+<svg class='w-4 h-4 mr-2' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+<path d='M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+</svg>
+</span>
+<span>Daftar Isi</span>
+            </a>
+          </div>
+        &lt;/div&gt;
+      &lt;/aside&gt;
+    <div class='flex-1 h-full flex flex-col overflow-x-hidden overflow-y-auto' id='scroll-trigger'>
+        <!-- Navbar -->
+        <header class='relative bg-white dark:bg-darker' id='Header'>
+          <div class='flex items-center justify-between p-2 border-b dark:border-primary-darker'>
+            <!-- Mobile menu button -->
+            &lt;button @click=&quot;isMobileMainMenuOpen = !isMobileMainMenuOpen&quot;
+              class=&quot;p-1 transition-colors duration-200 rounded-md text-primary-lighter bg-primary-50 hover:text-primary hover:bg-primary-100 dark:hover:text-light dark:hover:bg-primary-dark dark:bg-dark md:hidden focus:outline-none focus:ring&quot;&gt;
+              <span class='sr-only'>Buka menu</span>
+              <span aria-hidden='true'>
+                <svg class='w-8 h-8' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M4 6h16M4 12h16M4 18h16' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                </svg>
+              </span>
+            &lt;/button&gt;
+<div class='hidden md:flex'/>
+            <b:if cond='data:view.isMultipleItems'><!-- Brand -->
+              <a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><h1 class='m-0 inline-block text-2xl font-bold tracking-wider text-primary-dark dark:text-light'><data:blog.title/></h1></a>
+              <b:else/>
+              <!-- Brand -->
+            <a class='inline-block text-2xl font-bold tracking-wider text-primary-dark dark:text-light' expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a>
+            </b:if>
+            
+            <!-- Mobile sub menu button -->
+            &lt;button @click=&quot;isMobileSubMenuOpen = !isMobileSubMenuOpen&quot;
+              class=&quot;p-1 transition-colors duration-200 rounded-md text-primary-lighter bg-primary-50 hover:text-primary hover:bg-primary-100 dark:hover:text-light dark:hover:bg-primary-dark dark:bg-dark md:hidden focus:outline-none focus:ring&quot;&gt;
+              <span class='sr-only'>Buka sub menu</span>
+              <span aria-hidden='true'>
+                <svg class='w-8 h-8' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                </svg>
+              </span>
+            &lt;/button&gt;
+
+            <!-- Desktop Right buttons -->
+            &lt;nav aria-label=&#39;Secondary&#39; class=&#39;hidden space-x-2 md:flex md:items-center&#39;&gt;
+              <!-- Toggle dark theme button -->
+              &lt;button aria-hidden=&quot;true&quot; class=&quot;relative focus:outline-none&quot; @click=&quot;toggleTheme&quot; &gt;
+                <div class='w-12 h-6 transition rounded-full outline-none bg-primary-100 dark:bg-primary-lighter'/>
+                <div :class='{ &quot;translate-x-0 -translate-y-px  bg-white text-primary-dark&quot;: !isDark, &quot;translate-x-6 text-primary-100 bg-primary-darker&quot;: isDark }' class='absolute top-0 left-0 inline-flex items-center justify-center w-6 h-6 transition-all duration-150 transform scale-110 rounded-full shadow-sm'>
+                  <svg class='w-4 h-4' fill='none' stroke='currentColor' viewBox='0 0 24 24' x-show='!isDark' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                  <svg class='w-4 h-4' fill='none' stroke='currentColor' viewBox='0 0 24 24' x-show='isDark' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </div>
+              &lt;/button&gt;
+
+              <!-- Search button -->
+              &lt;button @click=&quot;openSearchPanel&quot;
+                class=&quot;p-2 transition-colors duration-200 rounded-full text-primary-lighter bg-primary-50 hover:text-primary hover:bg-primary-100 dark:hover:text-light dark:hover:bg-primary-dark dark:bg-dark focus:outline-none focus:bg-primary-100 dark:focus:bg-primary-dark focus:ring-primary-darker&quot;&gt;
+                <span class='sr-only'>Buka search panel</span>
+                <svg aria-hidden='true' class='w-7 h-7' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                </svg>
+              &lt;/button&gt;
+
+              <!-- Settings button -->
+              &lt;button @click=&quot;openSettingsPanel&quot;
+                class=&quot;p-2 transition-colors duration-200 rounded-full text-primary-lighter bg-primary-50 hover:text-primary hover:bg-primary-100 dark:hover:text-light dark:hover:bg-primary-dark dark:bg-dark focus:outline-none focus:bg-primary-100 dark:focus:bg-primary-dark focus:ring-primary-darker&quot;&gt;
+                <span class='sr-only'>Buka Panel Pengaturan</span>
+                <svg aria-hidden='true' class='w-7 h-7' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  <path d='M15 12a3 3 0 11-6 0 3 3 0 016 0z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                </svg>
+              &lt;/button&gt;
+
+            &lt;/nav&gt;
+
+            <!-- Mobile sub menu -->
+            &lt;nav x-cloak x-transition:enter=&quot;transition duration-200 ease-in-out transform sm:duration-500&quot;
+              x-transition:enter-start=&quot;-translate-y-full opacity-0&quot; x-transition:enter-end=&quot;translate-y-0 opacity-100&quot;
+              x-transition:leave=&quot;transition duration-300 ease-in-out transform sm:duration-500&quot;
+              x-transition:leave-start=&quot;translate-y-0 opacity-100&quot; x-transition:leave-end=&quot;-translate-y-full opacity-0&quot;
+              x-show=&quot;isMobileSubMenuOpen&quot; @click.away=&quot;isMobileSubMenuOpen = false&quot;
+              class=&quot;absolute flex items-center p-4 bg-white rounded-md shadow-lg dark:bg-darker top-16 inset-x-4 md:hidden&quot;
+              aria-label=&quot;Secondary&quot;&gt;
+              <div class='space-x-2'>
+                <!-- Toggle dark theme button -->
+                &lt;button aria-hidden=&quot;true&quot; class=&quot;relative focus:outline-none&quot; x-cloak @click=&quot;toggleTheme&quot;&gt;
+                  <div class='w-12 h-6 transition rounded-full outline-none bg-primary-100 dark:bg-primary-lighter'>
+                  </div>
+                  <div :class='{ &quot;translate-x-0 -translate-y-px  bg-white text-primary-dark&quot;: !isDark, &quot;translate-x-6 text-primary-100 bg-primary-darker&quot;: isDark }' class='absolute top-0 left-0 inline-flex items-center justify-center w-6 h-6 transition-all duration-200 transform scale-110 rounded-full shadow-sm'>
+                    <svg class='w-4 h-4' fill='none' stroke='currentColor' viewBox='0 0 24 24' x-show='!isDark' xmlns='http://www.w3.org/2000/svg'>
+                      <path d='M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                    </svg>
+                    <svg class='w-4 h-4' fill='none' stroke='currentColor' viewBox='0 0 24 24' x-show='isDark' xmlns='http://www.w3.org/2000/svg'>
+                      <path d='M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                    </svg>
+                  </div>
+                &lt;/button&gt;
+
+                <!-- Search button -->
+                &lt;button
+                  @click=&quot;openSearchPanel(); $nextTick(() =&gt; { isMobileSubMenuOpen= false })&quot;
+                  class=&quot;p-2 transition-colors duration-200 rounded-full text-primary-lighter bg-primary-50 hover:text-primary hover:bg-primary-100 dark:hover:text-light dark:hover:bg-primary-dark dark:bg-dark focus:outline-none focus:bg-primary-100 dark:focus:bg-primary-dark focus:ring-primary-darker&quot;&gt;
+                  <span class='sr-only'>Buka search panel</span>
+                  <svg aria-hidden='true' class='w-7 h-7' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                &lt;/button&gt;
+
+                <!-- Settings button -->
+                &lt;button @click=&quot;openSettingsPanel(); $nextTick(() =&gt; { isMobileSubMenuOpen = false })&quot;
+                  class=&quot;p-2 transition-colors duration-200 rounded-full text-primary-lighter bg-primary-50 hover:text-primary hover:bg-primary-100 dark:hover:text-light dark:hover:bg-primary-dark dark:bg-dark focus:outline-none focus:bg-primary-100 dark:focus:bg-primary-dark focus:ring-primary-darker&quot;&gt;
+                  <span class='sr-only'>Buka Panel Pengaturan</span>
+                  <svg class='w-7 h-7' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                    <path d='M15 12a3 3 0 11-6 0 3 3 0 016 0z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                &lt;/button&gt;
+          		</div>
+            &lt;/nav&gt;
+            </div>
+          <!-- Mobile main manu -->
+          &lt;div x-cloak class=&quot;border-b md:hidden dark:border-primary-darker&quot; x-show=&quot;isMobileMainMenuOpen&quot;
+            @click.away=&quot;isMobileMainMenuOpen = false&quot;&gt;
+            <nav aria-label='Main' class='px-2 py-4 space-y-2'>
+              <!-- Dashboards links -->
+              <div x-data='{ isActive: true, open: true}'>
+                <!-- active & hover classes 'bg-primary-100 dark:bg-primary' -->
+              <a class='border mb-2 flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary' expr:href='data:blog.homepageUrl' role='button' title='www.fahru.my.id'>
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Beranda </span>
+              </a>
+            <!-- Pages links -->
+            <div x-data='{ isActive: false, open: false }'>
+              <!-- active classes 'bg-primary-100 dark:bg-primary' -->
+              &lt;a href=&quot;#&quot; @click=&quot;$event.preventDefault(); open = !open&quot;
+                class=&quot;border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary&quot;
+                :class=&quot;{ &#39;bg-primary-100 dark:bg-primary&#39;: isActive || open }&quot; role=&quot;button&quot; aria-haspopup=&quot;true&quot;
+                :aria-expanded=&quot;(open || isActive) ? &#39;true&#39; : &#39;false&#39;&quot;&gt;
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Laman </span>
+                <span aria-hidden='true' class='ml-auto'>
+                  <!-- active class 'rotate-180' -->
+                  <svg :class='{ &quot;rotate-180&quot;: open }' class='w-4 h-4 transition-transform transform' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M19 9l-7 7-7-7' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+              &lt;/a&gt;
+              <div arial-label='Laman' class='mt-2 space-y-2 px-2' role='menu' x-show='open'>
+                <!-- active & hover classes 'text-gray-700 dark:text-light' -->
+                <!-- inActive classes 'text-gray-400 dark:text-gray-400' -->
+              
+                <a class='border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary' href='https://www.fahru.my.id/p/privacy-policy.html' role='menuitem' title='Privacy Policy'>
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Privacy Policy </span>
+              </a>
+                              
+             &lt;a class=&#39;border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary&#39; href=&#39;https://www.blogger.com/follow.g?blogID=3085579493387823813&#39; onclick=&quot;window.open(this.href,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=768,height=640&#39;);return false;&quot; rel=&#39;nofollow&#39; role=&#39;menuitem&#39; title=&#39;Ikuti Blog www.fahru.my.id&#39;&gt;
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Ikuti Blog ini </span>
+              &lt;/a&gt;
+                
+              </div>
+            </div>
+              </div>
+              <a class='border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary' href='https://www.fahru.my.id/p/daftar-isi.html' role='menuitem' title='Daftar Isi'>
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Daftar Isi </span>
+              </a>
+                <a class='border flex items-center p-2 text-gray-500 transition-colors rounded-md dark:text-light hover:bg-primary-100 dark:hover:bg-primary' href='https://telegram.me/s/FahruMyID' rel='noopener nofollow' role='menuitem' target='_blank' title='Telegram Channel Fahru My ID'>
+                <span aria-hidden='true'>
+                  <svg class='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M22.05 1.577c-.393-.016-.784.08-1.117.235-.484.186-4.92 1.902-9.41 3.64-2.26.873-4.518 1.746-6.256 2.415-1.737.67-3.045 1.168-3.114 1.192-.46.16-1.082.362-1.61.984-.133.155-.267.354-.335.628s-.038.622.095.895c.265.547.714.773 1.244.976 1.76.564 3.58 1.102 5.087 1.608.556 1.96 1.09 3.927 1.618 5.89.174.394.553.54.944.544l-.002.02s.307.03.606-.042c.3-.07.677-.244 1.02-.565.377-.354 1.4-1.36 1.98-1.928l4.37 3.226.035.02s.484.34 1.192.388c.354.024.82-.044 1.22-.337.403-.294.67-.767.795-1.307.374-1.63 2.853-13.427 3.276-15.38l-.012.046c.296-1.1.187-2.108-.496-2.705-.342-.297-.736-.427-1.13-.444zm-.118 1.874c.027.025.025.025.002.027-.007-.002.08.118-.09.755l-.007.024-.005.022c-.432 1.997-2.936 13.9-3.27 15.356-.046.196-.065.182-.054.17-.1-.015-.285-.094-.3-.1l-7.48-5.525c2.562-2.467 5.182-4.7 7.827-7.08.468-.235.39-.96-.17-.972-.594.14-1.095.567-1.64.84-3.132 1.858-6.332 3.492-9.43 5.406-1.59-.553-3.177-1.012-4.643-1.467 1.272-.51 2.283-.886 3.278-1.27 1.738-.67 3.996-1.54 6.256-2.415 4.522-1.748 9.07-3.51 9.465-3.662l.032-.013.03-.013c.11-.05.173-.055.202-.057 0 0-.01-.033-.002-.026zM10.02 16.016l1.234.912c-.532.52-1.035 1.01-1.398 1.36z' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'/>
+                  </svg>
+                </span>
+                <span class='ml-2 text-sm'> Telegram Channel </span>
+              </a>
+            </nav>
+          &lt;/div&gt;
+        </header>
+      <div class='w-full h-auto'/>
+    <div class='flex-1 mt-2 lg:flex'>
+        <!-- Main content -->
+        <main class='lg:w-2/3 lg:m-0'>
+        <!-- Content header-->
+        <b:if cond='data:blog.searchLabel'>
+        <!-- Search by Label -->
+            <div class='items-center justify-between px-2 py-2 border-b lg:py-3 dark:border-primary-darker'>
+              <span class='text-base font-semibold'>
+              <script type='text/javascript'>
+                const thisUrl = location.href.replace(location.search, &#39;&#39;);
+                const thisUrlParts = thisUrl.split(&#39;/&#39;);
+                const thisUrlLastPart = decodeURIComponent(thisUrlParts[thisUrlParts.length - 1]);
+                const hashedUrl = thisUrlLastPart.replace(/&lt;\/?[^&gt;]+(&gt;|$)/g, &quot;&quot;);
+                const cleanText = hashedUrl.split(&quot;#&quot;)[0]
+                document.write(&quot;Tampilkan publikasi untuk label &quot;+cleanText);
+              </script>
+              </span>
+            </div>
+        </b:if>
+
+        <b:if cond='data:blog.searchQuery'>
+        <!-- Search by Query -->
+          <div class='items-center justify-between px-2 py-2 border-b lg:py-3 dark:border-primary-darker'>
+            <span class='text-base font-semibold'><script type='text/javascript'>
+              const urlParams = new URLSearchParams(window.location.search);
+              const myParam = urlParams.get(&#39;q&#39;);
+              const dirtyParam = decodeURIComponent(myParam);
+              const hashedUrl = dirtyParam.replace(/&lt;\/?[^&gt;]+(&gt;|$)/g, &quot;&quot;);
+              const cleanText = hashedUrl.split(&quot;#&quot;)[0]
+              document.write(&quot;Menampilkan hasil pencarian: &quot;+cleanText);
+            </script></span>
+          </div>
+        </b:if>
+        <!-- Content -->
+<b:section class='main' id='main' name='MAIN' showaddelement='yes'>
+  <b:widget id='Blog1' locked='true' title='Postingan Blog' type='Blog' version='2' visible='true'>
+    <b:widget-settings>
+      <b:widget-setting name='commentLabel'>comments</b:widget-setting>
+      <b:widget-setting name='showShareButtons'>false</b:widget-setting>
+      <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
+      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+      <b:widget-setting name='timestampLabel'/>
+      <b:widget-setting name='reactionsLabel'/>
+      <b:widget-setting name='showAuthorProfile'>true</b:widget-setting>
+      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+      <b:widget-setting name='showLocation'>false</b:widget-setting>
+      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='backlinksLabel'/>
+      <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+      <b:widget-setting name='style.textcolor'>#222222</b:widget-setting>
+      <b:widget-setting name='showCommentLink'>false</b:widget-setting>
+      <b:widget-setting name='style.urlcolor'>#666666</b:widget-setting>
+      <b:widget-setting name='showAuthor'>true</b:widget-setting>
+      <b:widget-setting name='style.linkcolor'>#cc6611</b:widget-setting>
+      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showLabels'>true</b:widget-setting>
+      <b:widget-setting name='postLabelsLabel'/>
+      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+      <b:widget-setting name='showReactions'>false</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main' var='this'>
+              <div class='p-2 space-y-4 mb-4'>
+  <b:loop index='i' values='data:posts' var='post'>
+  <b:include data='post' name='postCommentsAndAd'/>
+  </b:loop>
+<b:include name='postPagination'/>
+</div>
+</b:includable>
+    <b:includable id='aboutPostAuthor'>
+<div class='author-name'>
+<a class='g-profile' href='https://telegram.me/s/FahruMyID' rel='author nofollow noopener noreferrer' title='author profile'>
+<span>
+<data:post.author.name/>
+</span>
+</a>
+</div>
+<div>
+<span class='author-desc'>
+<data:post.author.aboutMe/>
+</span>
+</div>
+</b:includable>
+    <b:includable id='addComments'>
+<a expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+<b:message name='messages.postAComment'/>
+</a>
+</b:includable>
+    <b:includable id='blogThisShare'>
+<b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' var='onclick'>
+<b:include name='platformShare'/>
+</b:with>
+</b:includable>
+    <b:includable id='bylineByName' var='byline'>
+<b:switch var='data:byline.name'>
+<b:case value='author'/>
+<b:include name='postAuthor'/>
+<b:case value='share'/>
+<b:include cond='data:post.shareUrl' name='postShareButtons'/>
+<b:case value='comments'/>
+<b:include cond='data:post.allowComments' name='postCommentsLink'/>
+<b:case value='location'/>
+<b:include cond='data:post.location' name='postLocation'/>
+<b:case value='timestamp'/>
+<b:include cond='not data:view.isPage' name='postTimestamp'/>
+<b:case value='labels'/>
+<b:include cond='data:post.labels' name='postLabels'/>
+<b:case value='icons'/>
+<b:include cond='data:post.emailPostUrl' name='emailPostIcon'/>
+</b:switch>
+</b:includable>
+    <b:includable id='bylineRegion' var='regionItems'>
+<b:loop values='data:regionItems' var='byline'>
+<b:include data='byline' name='bylineByName'/>
+</b:loop>
+</b:includable>
+    <b:includable id='commentAuthorAvatar'>
+<div class='avatar-image-container'>
+<img class='author-avatar' expr:src='data:comment.authorAvatarSrc' height='35' width='35'/>
+</div>
+</b:includable>
+    <b:includable id='commentDeleteIcon' var='comment'>
+<span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+<b:if cond='data:showCmtPopup'>
+<div class='goog-toggle-button'>
+<div class='goog-inline-block comment-action-icon'/>
+</div>
+<b:else/>
+<a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:messages.deleteComment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</b:if>
+</span>
+</b:includable>
+    <b:includable id='commentForm' var='post'>
+<div class='comment-form'>
+<a name='comment-form'/>
+<h4 id='comment-post-message'><data:messages.postAComment/></h4>
+<b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+<p><data:this.messages.blogComment/></p>
+</b:if>
+<b:include data='post' name='commentFormIframeSrc'/>
+<iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+<data:post.cmtfpIframe/>
+<script type='text/javascript'>
+BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+</script>
+</div>
+</b:includable>
+    <b:includable id='commentFormIframeSrc' var='post'>
+<a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+</b:includable>
+    <b:includable id='commentItem' var='comment'>
+<div class='comment' expr:id='&quot;c&quot; + data:comment.id'>
+<b:include cond='data:blog.enabledCommentProfileImages' name='commentAuthorAvatar'/>
+
+<div class='comment-block'>
+<div class='comment-author'>
+<b:if cond='data:comment.authorUrl'>
+<b:message name='messages.authorSaidWithLink'>
+<b:param expr:value='data:comment.author' name='authorName'/>
+<b:param expr:value='data:comment.authorUrl' name='authorUrl'/>
+</b:message>
+<b:else/>
+<b:message name='messages.authorSaid'>
+<b:param expr:value='data:comment.author' name='authorName'/>
+</b:message>
+</b:if>
+</div>
+<div expr:class='&quot;comment-body&quot; + (data:comment.isDeleted ? &quot; deleted&quot; : &quot;&quot;)'>
+<data:comment.body/>
+</div>
+<div class='comment-footer'>
+<span class='comment-timestamp'>
+<a expr:href='data:comment.url' title='comment permalink'>
+<data:comment.timestamp/>
+</a>
+<b:include data='comment' name='commentDeleteIcon'/>
+</span>
+</div>
+</div>
+</div>
+</b:includable>
+    <b:includable id='commentList' var='comments'>
+<div id='comments-block'>
+<b:loop values='data:comments' var='comment'>
+<b:include data='comment' name='commentItem'/>
+</b:loop>
+</div>
+</b:includable>
+    <b:includable id='commentPicker' var='post'>
+<b:if cond='data:post.showThreadedComments'>
+<b:include data='post' name='threadedComments'/>
+<b:else/>
+<b:include data='post' name='comments'/>
+</b:if>
+</b:includable>
+    <b:includable id='comments' var='post'>
+<section expr:class='&quot;comments&quot; + (data:post.embedCommentForm ? &quot; embed&quot; : &quot;&quot;)' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+<a name='comments'/>
+<b:if cond='data:post.allowComments'>
+
+<b:include name='commentsTitle'/>
+
+<div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+<b:include cond='data:post.comments' data='post.comments' name='commentList'/>
+</div>
+
+<b:if cond='data:post.commentPagingRequired'>
+<div class='paging-control-container'>
+<b:if cond='data:post.hasOlderLinks'>
+<a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+<data:messages.oldest/>
+</a>
+<a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+<data:messages.older/>
+</a>
+</b:if>
+
+<span class='comment-range-text'>
+<data:post.commentRangeText/>
+</span>
+
+<b:if cond='data:post.hasNewerLinks'>
+<a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+<data:messages.newer/>
+</a>
+<a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+<data:messages.newest/>
+</a>
+</b:if>
+</div>
+</b:if>
+
+<div class='footer'>
+<b:if cond='data:post.embedCommentForm'>
+<b:if cond='data:post.allowNewComments'>
+<b:include data='post' name='commentForm'/>
+<b:else/>
+<data:post.noNewCommentsText/>
+</b:if>
+<b:else/>
+<b:if cond='data:post.allowComments'>
+<b:include data='post' name='addComments'/>
+</b:if>
+</b:if>
+<b:if cond='data:post.showManageComments'>
+<b:include data='post' name='manageComments'/>
+</b:if>
+</div>
+</b:if>
+<b:if cond='data:showCmtPopup'>
+<div id='comment-popup'>
+<iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+</iframe>
+</div>
+</b:if>
+</section>
+</b:includable>
+    <b:includable id='commentsLink'>
+<a class='comment-link' expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+<b:if cond='data:post.numberOfComments &gt; 0'>
+<b:message name='messages.numberOfComments'>
+<b:param expr:value='data:post.numberOfComments' name='numComments'/>
+</b:message>
+<b:else/>
+<data:messages.postAComment/>
+</b:if>
+</a>
+</b:includable>
+    <b:includable id='commentsLinkIframe'>
+<!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='commentsTitle'>
+<h3 class='title'><data:messages.comments/></h3>
+</b:includable>
+    <b:includable id='defaultAdUnit'>
+<ins class='adsbygoogle' data-ad-format='auto' expr:data-ad-client='data:adClientId ?: data:blog.adsenseClientId' expr:data-ad-host='data:blog.adsenseHostId' expr:data-analytics-uacct='data:blog.analyticsAccountNumber' expr:style='data:style ?: &quot;display: block;&quot;'/>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</b:includable>
+    <b:includable id='emailPostIcon'>
+<span class='byline post-icons'>
+<!-- email post links -->
+<span class='item-action'>
+<a expr:href='data:post.emailPostUrl' expr:title='data:messages.emailPost'>
+<b:include data='{ iconClass: &quot;touch-icon sharing-icon&quot; }' name='emailIcon'/>
+</a>
+</span>
+</span>
+</b:includable>
+    <b:includable id='facebookShare'>
+<b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' var='onclick'>
+<b:include name='platformShare'/>
+</b:with>
+</b:includable>
+    <b:includable id='feedLinks'>
+<b:if cond='!data:view.isPost'> <!-- Blog feed links -->
+<b:if cond='data:feedLinks'>
+<div class='blog-feeds'>
+<b:include data='feedLinks' name='feedLinksBody'/>
+</div>
+</b:if>
+<b:else/> <!--Post feed links -->
+<div class='post-feeds'>
+<b:loop values='data:posts' var='post'>
+<b:if cond='data:post.allowComments and data:post.feedLinks'>
+<b:include data='post.feedLinks' name='feedLinksBody'/>
+</b:if>
+</b:loop>
+</div>
+</b:if>
+</b:includable>
+    <b:includable id='feedLinksBody' var='links'>
+<div class='feed-links'>
+<data:messages.subscribeTo/>
+<b:loop values='data:links' var='f'>
+<a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+</b:loop>
+</div>
+</b:includable>
+    <b:includable id='footerBylines'>
+<b:if cond='data:widgets.Blog.first.footerBylines'>
+<b:loop index='i' values='data:widgets.Blog.first.footerBylines' var='region'>
+<b:if cond='not data:region.items.empty'>
+<div expr:class='&quot;post-footer-line post-footer-line-&quot; + (data:i + 1)'>
+<b:with value='&quot;footer-&quot; + (data:i + 1)' var='regionName'>
+<b:include data='region.items' name='bylineRegion'/>
+</b:with>
+</div>
+</b:if>
+</b:loop>
+</b:if>
+</b:includable>
+    <b:includable id='googlePlusShare'>
+<div class='goog-inline-block google-plus-share-container'>
+<g:plusone annotation='inline' expr:href='data:originalUrl.canonical.http' size='medium' source='blogger:blog:plusone'/>
+</div>
+</b:includable>
+    <b:includable id='headerByline'>
+<b:if cond='data:widgets.Blog.first.headerByline'>
+<b:with value='&quot;header-1&quot;' var='regionName'>
+<b:include data='data:widgets.Blog.first.headerByline.items' name='bylineRegion'/>
+</b:with>
+</b:if>
+</b:includable>
+    <b:includable id='homePageLink'>
+<a class='inline-flex px-2 py-1 mt-2 mr-1 font-semibold rounded text-white bg-primary hover:bg-primary-dark focus:outline-none focus:ring focus:ring-primary-dark focus:ring-offset-1 focus:ring-offset-white dark:focus:ring-offset-dark' expr:href='data:blog.homepageUrl'>
+<data:messages.home/>
+</a>
+</b:includable>
+    <b:includable id='iframeComments' var='post'>
+<!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='inlineAd' var='post'>
+<b:if cond='!data:view.isPreview'>
+<b:if cond='data:this.adCode or data:this.adClientId or data:blog.adsenseClientId'>
+<!-- Ad -->
+<div class='inline-ad'>
+<b:if cond='data:this.adCode != &quot;&quot;'>
+<data:this.adCode/>
+<b:else/>
+<b:include cond='data:this.adClientId or data:blog.adsenseClientId' name='defaultAdUnit'/>
+</b:if>
+</div>
+</b:if>
+<b:else/>
+<div class='inline-ad'>
+<div class='inline-ad-placeholder'>
+<span><b:message name='messages.adsGoHere'/></span>
+</div>
+</div>
+</b:if>
+</b:includable>
+    <b:includable id='linkShare'>
+<b:with value='&quot;window.prompt(\&quot;Copy to clipboard: Ctrl+C, Enter\&quot;, \&quot;&quot; + data:originalUrl + &quot;\&quot;); return false;&quot;' var='onclick'>
+<b:include name='platformShare'/>
+</b:with>
+</b:includable>
+    <b:includable id='manageComments'>
+<a expr:href='data:post.manageCommentsUrl' expr:onclick='data:post.manageCommentsUrlOnclick'>
+<b:message name='messages.manageComments'/>
+</a>
+</b:includable>
+    <b:includable id='nextPageLink'>
+<a class='inline-flex px-2 py-1 mt-2 mr-1 font-semibold rounded text-white bg-primary hover:bg-primary-dark focus:outline-none focus:ring focus:ring-primary-dark focus:ring-offset-1 focus:ring-offset-white dark:focus:ring-offset-dark' expr:a-href='data:olderPageUrl' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts' rel='noopener noreferrer external'>
+<data:messages.olderPosts/>
+</a>
+</b:includable>
+    <b:includable id='otherSharingButton'>
+<span class='sharing-platform-button sharing-element-other' expr:aria-label='data:messages.shareToOtherApps.escaped' expr:data-url='data:originalUrl' expr:title='data:messages.shareToOtherApps.escaped' role='menuitem' tabindex='-1'>
+<b:with value='{key: &quot;sharingOther&quot;}' var='platform'>
+<b:include name='sharingPlatformIcon'/>
+</b:with>
+<span class='platform-sharing-text'><data:messages.shareOtherApps.escaped/></span>
+</span>
+</b:includable>
+    <b:includable id='platformShare'>
+<a expr:class='&quot;goog-inline-block sharing-&quot; + data:platform.key' expr:data-url='data:originalUrl' expr:href='data:shareUrl + &quot;&amp;target=&quot; + data:platform.target' expr:onclick='data:onclick ? data:onclick : &quot;&quot;' expr:title='data:platform.shareMessage' target='_blank'>
+<span class='share-button-link-text'>
+<data:platform.shareMessage/>
+</span>
+</a>
+</b:includable>
+    <b:includable id='post' var='post'>
+<div class='post'>
+  <b:include data='post' name='postMeta'/>
+  <div class='flex justify-between items-center'>
+  <b:include cond='not data:view.isPage' name='postTimestamp'/>
+  <b:include name='postAuthor'/>
+  </div>
+  <div class='mt-2'>
+  <b:include data='post' name='postTitle'/>
+  <div class='mt-2'>
+  <b:if cond='data:view.isSingleItem'>
+  <b:include data='post' name='postBody'/>
+  <b:else/>
+  <b:eval expr='snippet(data:post.snippets.long, {length: 200})'/>
+  <b:include data='post' name='postJumpLink'/>
+  </b:if>
+  </div>
+  </div>
+		   <b:if cond='data:post.labels'>
+             <b:if cond='data:view.isPost'>
+                 <b:loop values='data:post.labels' var='label'>
+              <script type='application/ld+json'>
+                {
+                  &quot;@context&quot;: &quot;https://schema.org&quot;,
+                  &quot;@type&quot;: &quot;BreadcrumbList&quot;,
+                  &quot;itemListElement&quot;: [{
+                      &quot;@type&quot;: &quot;ListItem&quot;,
+                      &quot;position&quot;: 1,
+                      &quot;name&quot;: &quot;<data:label.name/>&quot;,
+                      &quot;item&quot;: &quot;<data:label.url/>&quot;
+                    },{
+                      &quot;@type&quot;: &quot;ListItem&quot;,
+                      &quot;position&quot;: 2,
+                      &quot;name&quot;: &quot;<data:post.title/>&quot;
+                   }]
+           }
+               </script>
+                  </b:loop>
+             </b:if>
+             
+             <div class='post-labels justify-end'>
+                <b:loop values='data:post.labels' var='label'>
+                <a class='inline-flex px-2 py-1 mt-2 mr-1 font-semibold rounded text-white bg-primary hover:bg-primary-dark focus:outline-none focus:ring focus:ring-primary-dark focus:ring-offset-1 focus:ring-offset-white dark:focus:ring-offset-dark' expr:href='data:label.url' expr:title='&quot;Tampilkan publikasi untuk label &quot;+data:label.name'>#<data:label.name/></a>
+                </b:loop>
+		   </div>
+		   </b:if>
+</div>
+</b:includable>
+    <b:includable id='postAuthor'>
+<b:if cond='data:post.author.profileUrl'>
+<a href='https://telegram.me/s/FahruMyID' rel='author nofollow noopener noreferrer' title='author profile'>
+<span class='font-semibold hover:underline'><data:post.author.name/></span>
+</a>
+<b:else/>
+<span class='font-semibold hover:underline'><data:post.author.name/></span>
+</b:if>
+</b:includable>
+    <b:includable id='postBody' var='post'>
+<!-- If metaDescription is empty, use the post body as the schema.org description too, for G+/FB snippeting. -->
+<div class='post-body entry-content float-container' expr:id='&quot;post-body-&quot; + data:post.id'>
+<data:post.body/>
+<b:if cond='data:view.isPost'><br/>
+  &lt;span class=&quot;inline-flex items-center justify-center p-2 text-gray-800 dark:text-white&quot; title=&quot;Bagikan Laman ini&quot;&gt;
+      &lt;span aria-hidden=&quot;true&quot;&gt;&lt;svg class=&quot;h-6 w-6&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; viewBox=&quot;0 0 24 24&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;
+&lt;path d=&quot;M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;a role=&quot;button&quot; class=&quot;inline-flex items-center justify-center p-2 mr-2 text-white rounded-xl facebook shadow-md&quot; href=&#39;https://www.facebook.com/sharer.php?u=<data:blog.url/>&#39; onclick=&quot;window.open(this.href,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=768,height=640&#39;);return false;&quot; rel=&quot;nofollow noopener&quot; title=&quot;Bagikan ke Facebook&quot;&gt;
+      &lt;span aria-hidden=&#39;true&#39;&gt;&lt;svg class=&#39;h-6 w-6&#39; fill=&#39;none&#39; stroke=&#39;currentColor&#39; viewBox=&#39;0 0 24 24&#39; xmlns=&#39;http://www.w3.org/2000/svg&#39;&gt;
+&lt;path d=&#39;M17,2V2H17V6H15C14.31,6 14,6.81 14,7.5V10H14L17,10V14H14V22H10V14H7V10H10V6A4,4 0 0,1 14,2H17Z&#39; stroke-linecap=&#39;round&#39; stroke-linejoin=&#39;round&#39; stroke-width=&#39;2&#39;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;
+      &lt;a role=&quot;button&quot; class=&quot;inline-flex items-center justify-center p-2 mr-2 text-white rounded-xl twitter shadow-md&quot; href=&#39;https://twitter.com/intent/tweet?text=<data:blog.pageName/>&amp;url=<data:blog.url/>&#39; onclick=&quot;window.open(this.href,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=768,height=640&#39;);return false;&quot; rel=&quot;nofollow noopener&quot; title=&quot;Bagikan ke Twitter&quot;&gt;
+        &lt;span aria-hidden=&#39;true&#39;&gt;&lt;svg class=&#39;h-6 w-6&#39; fill=&#39;none&#39; stroke=&#39;currentColor&#39; viewBox=&#39;0 0 24 24&#39; xmlns=&#39;http://www.w3.org/2000/svg&#39;&gt;
+&lt;path d=&#39;M22.46,6C21.69,6.35 20.86,6.58 20,6.69C20.88,6.16 21.56,5.32 21.88,4.31C21.05,4.81 20.13,5.16 19.16,5.36C18.37,4.5 17.26,4 16,4C13.65,4 11.73,5.92 11.73,8.29C11.73,8.63 11.77,8.96 11.84,9.27C8.28,9.09 5.11,7.38 3,4.79C2.63,5.42 2.42,6.16 2.42,6.94C2.42,8.43 3.17,9.75 4.33,10.5C3.62,10.5 2.96,10.3 2.38,10C2.38,10 2.38,10 2.38,10.03C2.38,12.11 3.86,13.85 5.82,14.24C5.46,14.34 5.08,14.39 4.69,14.39C4.42,14.39 4.15,14.36 3.89,14.31C4.43,16 6,17.26 7.89,17.29C6.43,18.45 4.58,19.13 2.56,19.13C2.22,19.13 1.88,19.11 1.54,19.07C3.44,20.29 5.7,21 8.12,21C16,21 20.33,14.46 20.33,8.79C20.33,8.6 20.33,8.42 20.32,8.23C21.16,7.63 21.88,6.87 22.46,6Z&#39; stroke-linecap=&#39;round&#39; stroke-linejoin=&#39;round&#39; stroke-width=&#39;2&#39;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;
+ &lt;a role=&quot;button&quot; class=&quot;inline-flex items-center justify-center p-2 mr-2 text-white rounded-xl linkedin shadow-md&quot; href=&#39;https://www.linkedin.com/sharing/share-offsite/?url=<data:blog.url/>&amp;title=<data:blog.pageName/>&#39; onclick=&quot;window.open(this.href,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=768,height=640&#39;);return false;&quot; rel=&#39;nofollow noopener&#39; title=&#39;Bagikan ke LinkedIn&#39;&gt;
+        &lt;span aria-hidden=&#39;true&#39;&gt;&lt;svg class=&#39;h-6 w-6&#39; fill=&#39;currentColor&#39; viewBox=&#39;0 0 24 24&#39; xmlns=&#39;http://www.w3.org/2000/svg&#39;&gt;&lt;path d=&#39;M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z&#39;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;
+   &lt;a role=&quot;button&quot; class=&quot;inline-flex items-center justify-center p-2 mr-2 text-white rounded-xl telegram shadow-md&quot; href=&#39;https://t.me/share/url?url=<data:blog.url/>&#39; onclick=&quot;window.open(this.href,&#39;sharer&#39;,&#39;toolbar=0,status=0,width=768,height=640&#39;);return false;&quot; rel=&#39;noopener nofollow noreferrer&#39; title=&#39;Bagikan ke Telegram&#39;&gt;
+        &lt;span aria-hidden=&#39;true&#39;&gt;&lt;svg class=&#39;h-6 w-6&#39; fill=&#39;currentColor&#39; viewBox=&#39;0 0 24 24&#39; xmlns=&#39;http://www.w3.org/2000/svg&#39;&gt;&lt;path d=&#39;M22.05 1.577c-.393-.016-.784.08-1.117.235-.484.186-4.92 1.902-9.41 3.64-2.26.873-4.518 1.746-6.256 2.415-1.737.67-3.045 1.168-3.114 1.192-.46.16-1.082.362-1.61.984-.133.155-.267.354-.335.628s-.038.622.095.895c.265.547.714.773 1.244.976 1.76.564 3.58 1.102 5.087 1.608.556 1.96 1.09 3.927 1.618 5.89.174.394.553.54.944.544l-.002.02s.307.03.606-.042c.3-.07.677-.244 1.02-.565.377-.354 1.4-1.36 1.98-1.928l4.37 3.226.035.02s.484.34 1.192.388c.354.024.82-.044 1.22-.337.403-.294.67-.767.795-1.307.374-1.63 2.853-13.427 3.276-15.38l-.012.046c.296-1.1.187-2.108-.496-2.705-.342-.297-.736-.427-1.13-.444zm-.118 1.874c.027.025.025.025.002.027-.007-.002.08.118-.09.755l-.007.024-.005.022c-.432 1.997-2.936 13.9-3.27 15.356-.046.196-.065.182-.054.17-.1-.015-.285-.094-.3-.1l-7.48-5.525c2.562-2.467 5.182-4.7 7.827-7.08.468-.235.39-.96-.17-.972-.594.14-1.095.567-1.64.84-3.132 1.858-6.332 3.492-9.43 5.406-1.59-.553-3.177-1.012-4.643-1.467 1.272-.51 2.283-.886 3.278-1.27 1.738-.67 3.996-1.54 6.256-2.415 4.522-1.748 9.07-3.51 9.465-3.662l.032-.013.03-.013c.11-.05.173-.055.202-.057 0 0-.01-.033-.002-.026zM10.02 16.016l1.234.912c-.532.52-1.035 1.01-1.398 1.36z&#39;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;
+  <div class='block w-full mt-4'>
+  <ins class='adsbygoogle' data-ad-client='ca-pub-2337694132800609' data-ad-format='fluid' data-ad-layout='in-article' data-ad-slot='8347936069' style='display:block; text-align:center;'/>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+  <div class='mt-4' id='related-posts'/>
+  <script type='text/javascript'>
+  //<![CDATA[ 
+var numposts = 5;
+var showpostthumbnails = false;
+var showpostdate = false;
+var relatedpoststitle='Postingan Lainnya:';
+var maxresults=5;
+var relatedPost=document.getElementById('related-posts'),relatedTitles=new Array,relatedTitlesNum=0,relatedUrls=new Array;function related_results_labels(e){for(var t=0;t<e.feed.entry.length;t++){var l=e.feed.entry[t];relatedTitles[relatedTitlesNum]=l.title.$t;for(var r=0;r<l.link.length;r++)if('alternate'==l.link[r].rel){relatedUrls[relatedTitlesNum]=l.link[r].href,relatedTitlesNum++;break}}}function removeRelatedDuplicates(){for(var e=new Array(0),t=new Array(0),l=0;l<relatedUrls.length;l++)contains(e,relatedUrls[l])||(e.length+=1,e[e.length-1]=relatedUrls[l],t.length+=1,t[t.length-1]=relatedTitles[l]);relatedTitles=t,relatedUrls=e}function contains(e,t){for(var l=0;l<e.length;l++)if(e[l]==t)return!0;return!1}function printRelatedLabels(e){for(var t=0;t<relatedUrls.length;t++)relatedUrls[t]==e&&(relatedUrls.splice(t,1),relatedTitles.splice(t,1));var l=Math.floor((relatedTitles.length-1)*Math.random());t=0;if(relatedTitles.length>1){var r=document.createElement('span');r.setAttribute('class', 'text-lg font-semibold'); ;r.innerHTML=relatedpoststitle,relatedPost.appendChild(r);for(var a=document.createElement('ul');t<relatedTitles.length&&t<20&&t<maxresults;){var n=document.createElement('a');n.setAttribute('href',relatedUrls[l]),n.setAttribute('title',relatedTitles[l]),n.innerHTML=relatedTitles[l];var d=document.createElement('li');d.appendChild(n),a.appendChild(d),l<relatedTitles.length-1?l++:l=0,t++}relatedPost.appendChild(a)}relatedUrls.splice(0,relatedUrls.length),relatedTitles.splice(0,relatedTitles.length)}
+//]]></script><b:loop values='data:post.labels' var='label'><script expr:src='&quot;/feeds/posts/default/-/&quot; + data:label.name + &quot;?alt=json-in-script&amp;callback=related_results_labels&amp;max-results=5&quot;' type='text/javascript'/></b:loop><script type='text/javascript'>removeRelatedDuplicates(); printRelatedLabels(&quot;<data:post.url/>&quot;);</script>
+  </b:if>
+</div>
+</b:includable>
+    <b:includable id='postBodySnippet' var='post'>
+<b:include data='post' name='postBody'/>
+</b:includable>
+    <b:includable id='postCommentsAndAd' var='post'>
+<article class='px-5 py-3 lg:px-10 lg:py-6 bg-white rounded-lg shadow-md dark:bg-darker'>
+<!-- Post title and body -->
+<b:include data='post' name='post'/>
+</article>
+      <b:if cond='data:view.isPost'>
+        <div class='px-5 py-3 lg:px-10 lg:py-6 bg-white rounded-lg shadow-md dark:bg-darker'>
+<div class='fb-comments' data-numposts='5' data-width='100%' expr:data-href='data:blog.canonicalUrl'/>
+
+        </div>
+      </b:if>
+</b:includable>
+    <b:includable id='postCommentsLink'>
+<b:if cond='data:view.isMultipleItems'>
+<span class='byline post-comment-link'>
+<b:include cond='data:post.commentSource != 1' name='commentsLink'/>
+</span>
+</b:if>
+</b:includable>
+    <b:includable id='postFooter' var='post'>
+<div class='post-footer flex justify-between items-center mt-4'>
+<b:include name='footerBylines'/>
+<b:include data='post' name='postFooterAuthorProfile'/>
+</div>
+</b:includable>
+    <b:includable id='postFooterAuthorProfile' var='post'>
+<b:if cond='data:post.author.aboutMe and data:view.isPost'>
+<div class='author-profile'>
+<b:if cond='data:post.author.authorPhoto.url'>
+<img class='author-image' expr:src='data:post.author.authorPhoto.url' width='50px'/>
+<div class='author-about'>
+<b:include data='post' name='aboutPostAuthor'/>
+</div>
+<b:else/>
+<b:include data='post' name='aboutPostAuthor'/>
+</b:if>
+</div>
+</b:if>
+</b:includable>
+    <b:includable id='postHeader' var='post'>
+<b:include name='headerByline'/>
+</b:includable>
+    <b:includable id='postJumpLink' var='post'> &#10149;&#160;<a class='font-semibold underline hover:cursor' expr:href='data:post.url fragment &quot;more&quot;' expr:title='data:post.title'><b:eval expr='data:blog.jumpLinkMessage'/>
+</a>
+</b:includable>
+    <b:includable id='postLabels'>
+<b:loop index='i' values='data:post.labels' var='label'>
+<a class='px-2 py-1 m-1 font-semibold rounded text-white bg-primary hover:bg-primary-dark focus:outline-none focus:ring focus:ring-primary-dark focus:ring-offset-1 focus:ring-offset-white dark:focus:ring-offset-dark' expr:href='data:label.url' expr:title='&quot;Tampilkan publikasi untuk label &quot;+data:label.name' rel='tag'>
+<data:label.name/>
+</a>
+</b:loop>
+</b:includable>
+    <b:includable id='postLocation'>
+<span class='byline post-location'>
+<data:byline.label/>
+<a expr:href='data:post.location.mapsUrl' target='_blank'><data:post.location.name/></a>
+</span>
+</b:includable>
+    <b:includable id='postMeta' var='post'>
+<b:include data='post' name='postMetadataJSON'/>
+</b:includable>
+    <b:includable id='postMetadataJSONImage'>
+&quot;image&quot;: {
+&quot;@type&quot;: &quot;ImageObject&quot;,
+<b:if cond='data:post.featuredImage.isResizable'>
+&quot;url&quot;: &quot;<b:eval expr='resizeImage(data:post.featuredImage, 1200, &quot;1200:630&quot;)'/>&quot;,
+&quot;height&quot;: 630,
+&quot;width&quot;: 1200
+<b:else/>
+&quot;url&quot;: &quot;https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=w1200&quot;,
+&quot;height&quot;: 348,
+&quot;width&quot;: 1200
+</b:if>
+},
+</b:includable>
+    <b:includable id='postMetadataJSONPublisher'>
+&quot;publisher&quot;: {
+&quot;@type&quot;: &quot;Organization&quot;,
+&quot;name&quot;: &quot;Blogger&quot;,
+&quot;logo&quot;: {
+&quot;@type&quot;: &quot;ImageObject&quot;,
+&quot;url&quot;: &quot;https://lh3.googleusercontent.com/ULB6iBuCeTVvSjjjU1A-O8e9ZpVba6uvyhtiWRti_rBAs9yMYOFBujxriJRZ-A=h60&quot;,
+&quot;width&quot;: 206,
+&quot;height&quot;: 60
+}
+},
+</b:includable>
+    <b:includable id='postPagination'>
+<div class='blog-pager' id='blog-pager'>
+<b:include cond='data:olderPageUrl' name='nextPageLink'/>
+<b:include cond='data:newerPageUrl' name='previousPageLink'/>
+</div>
+</b:includable>
+    <b:includable id='postReactions'>
+<!-- Reaction feature no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='postShareButtons'>
+<div class='byline post-share-buttons goog-inline-block'>
+<b:with value='data:sharingId ?: ((data:widget.instanceId ?: &quot;sharing&quot;) + &quot;-&quot; + (data:regionName ?: &quot;byline&quot;) + &quot;-&quot; + data:post.id)' var='sharingId'>
+<!-- Note: 'sharingButtons' includable is from the default Sharing widget markup. -->
+<b:include data='{                                                sharingId: data:sharingId,                                                originalUrl: data:post.url,                                                platforms: data:this.sharing.platforms,                                                shareUrl: data:post.shareUrl,                                                shareTitle: data:post.title,                                              }' name='sharingButtons'/>
+</b:with>
+</div>
+</b:includable>
+    <b:includable id='postTimestamp'>
+<span class='font-light'>
+<data:byline.label/>
+<b:if cond='data:post.url'>
+<!-- <meta expr:content='data:post.url.canonical'/> -->
+<b:if cond='data:view.isPost'>
+  <meta expr:content='data:post.date.iso8601' property='article:published_time'/>
+</b:if>
+<time class='published' expr:datetime='data:post.date.iso8601' expr:title='data:post.date.iso8601'>
+<data:post.date/>
+</time>
+</b:if>
+</span>
+</b:includable>
+    <b:includable id='postTitle' var='post'>
+<b:if cond='data:view.isSingleItem'><b:if cond='data:post.title != &quot;&quot;'>
+<h1 class='text-2xl font-bold'>
+<b:if cond='data:post.link or (data:post.url and data:view.url != data:post.url)'>
+<a expr:href='data:post.link ?: data:post.url' expr:title='data:post.title'><data:post.title/></a>
+<b:else/>
+<data:post.title/>
+</b:if>
+</h1>
+</b:if>
+  <b:else/><b:if cond='data:post.title != &quot;&quot;'>
+<b:if cond='data:post.link or (data:post.url and data:view.url != data:post.url)'>
+<a class='post-title-index' expr:href='data:post.link ?: data:post.url' expr:title='data:post.title'><h2 class='text-xl font-bold m-0'><data:post.title/>
+</h2></a>
+<b:else/>
+<h2 class='text-xl font-bold m-0'><data:post.title/>
+</h2>
+</b:if>
+</b:if>
+</b:if>
+</b:includable>
+    <b:includable id='previousPageLink'>
+<a class='inline-flex px-2 py-1 mt-2 mr-1 font-semibold rounded text-white bg-primary hover:bg-primary-dark focus:outline-none focus:ring focus:ring-primary-dark focus:ring-offset-1 focus:ring-offset-white dark:focus:ring-offset-dark' expr:a-href='data:newerPageUrl' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:messages.newerPosts' rel='noopener noreferrer external'>
+<data:messages.newerPosts/>
+</a>
+</b:includable>
+    <b:includable id='sharingButton'>
+<span expr:aria-label='data:platform.shareMessage' expr:class='&quot;sharing-platform-button sharing-element-&quot; + data:platform.key' expr:data-href='data:shareUrl + &quot;&amp;target=&quot; + data:platform.target' expr:data-url='data:originalUrl' expr:title='data:platform.shareMessage' role='menuitem' tabindex='-1'>
+<b:include name='sharingPlatformIcon'/>
+<span class='platform-sharing-text'><data:platform.name/></span>
+</span>
+</b:includable>
+    <b:includable id='sharingButtonContent'>
+<div class='flat-icon-button ripple'>
+<b:include name='shareIcon'/>
+</div>
+</b:includable>
+    <b:includable id='sharingButtons'>
+<div class='sharing' expr:aria-owns='&quot;sharing-popup-&quot; + data:sharingId' expr:data-title='data:shareTitle'>
+<button class='sharing-button touch-icon-button' expr:aria-controls='&quot;sharing-popup-&quot; + data:sharingId' expr:aria-label='data:messages.share.escaped' expr:id='&quot;sharing-button-&quot; + data:sharingId' role='button'>
+<b:include name='sharingButtonContent'/>
+</button>
+<b:include name='sharingButtonsMenu'/>
+</div>
+</b:includable>
+    <b:includable id='sharingButtonsMenu'>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' class='share-buttons hidden' expr:aria-label='data:messages.share.escaped' expr:id='&quot;sharing-popup-&quot; + data:sharingId' role='menu'>
+<b:loop values='(data:platforms ?: data:blog.sharing.platforms) filter (p =&gt; p.key not in {&quot;blogThis&quot;})' var='platform'>
+<li>
+<b:include name='sharingButton'/>
+</li>
+</b:loop>
+<li aria-hidden='true' class='hidden'>
+<b:include name='otherSharingButton'/>
+</li>
+</ul>
+</div>
+</b:includable>
+    <b:includable id='sharingPlatformIcon'>
+<b:include data='{ iconClass: (&quot;touch-icon sharing-&quot; + data:platform.key) }' expr:name='data:platform.key + &quot;Icon&quot;'/>
+</b:includable>
+    <b:includable id='threadedCommentForm' var='post'>
+<div class='comment-form'>
+<a name='comment-form'/>
+<h4 id='comment-post-message'><data:messages.postAComment/></h4>
+<b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+<p><data:this.messages.blogComment/></p>
+</b:if>
+<b:include data='post' name='commentFormIframeSrc'/>
+<iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+<data:post.cmtfpIframe/>
+<script type='text/javascript'>
+BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+</script>
+</div>
+</b:includable>
+    <b:includable id='threadedCommentJs' var='post'>
+<script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+<b:template-script inline='true' name='threaded_comments'/>
+<script type='text/javascript'>
+blogger.widgets.blog.initThreadedComments(
+<data:post.commentJso/>,
+<data:post.commentMsgs/>,
+<data:post.commentConfig/>);
+</script>
+</b:includable>
+    <b:includable id='threadedComments' var='post'>
+<section class='comments threaded' expr:data-embed='data:post.embedCommentForm' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+<a name='comments'/>
+
+<b:include name='commentsTitle'/>
+
+<div class='comments-content'>
+<b:if cond='data:post.embedCommentForm'>
+<b:include data='post' name='threadedCommentJs'/>
+</b:if>
+<div id='comment-holder'>
+<data:post.commentHtml/>
+</div>
+</div>
+
+<p class='comment-footer'>
+<b:if cond='data:post.allowNewComments'>
+<b:include data='post' name='threadedCommentForm'/>
+<b:else/>
+<data:post.noNewCommentsText/>
+</b:if>
+<b:if cond='data:post.showManageComments'>
+<b:include data='post' name='manageComments'/>
+</b:if>
+</p>
+
+<b:if cond='data:showCmtPopup'>
+<div id='comment-popup'>
+<iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+</iframe>
+</div>
+</b:if>
+</section>
+</b:includable>
+  </b:widget>
+</b:section>
+        </main>
+                  <aside class='lg:w-1/3 lg:m-0 lg:h-screen lg:overflow-y-auto' style='align-self: flex-start;position: sticky;top: 0;'>
+                <b:section class='sidebar grid grid-cols-1 p-2 space-y-4 h-auto' id='sidebar' maxwidgets='3' name='SIDEBAR' showaddelement='yes'>
+                  <b:widget id='PopularPosts1' locked='false' title='Populer' type='PopularPosts' version='1'>
+                    <b:widget-settings>
+                      <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
+                      <b:widget-setting name='showThumbnails'>false</b:widget-setting>
+                      <b:widget-setting name='showSnippets'>false</b:widget-setting>
+                      <b:widget-setting name='timeRange'>LAST_WEEK</b:widget-setting>
+                    </b:widget-settings>
+                    <b:includable id='main'>
+                      <div class='bg-white rounded-md dark:bg-darker'>
+                     		<b:if cond='data:title != &quot;&quot;'>
+                      	<div class='items-center justify-between p-4 border-b dark:border-primary'><h2 class='text-xl m-0 font-bold dark:text-light'><data:title/></h2>
+                  		</div></b:if>
+
+                        <div class='relative p-2 h-auto'>
+                          <ul class='divide-y divide-gray-300'>
+      <b:loop values='data:posts' var='post'>
+      <li class='p-2 hover:underline'>
+        <b:if cond='!data:showThumbnails'>
+          <b:if cond='!data:showSnippets'>
+            <!-- (1) No snippet/thumbnail -->
+            <a class='post-popular-list' expr:href='data:post.href' expr:title='data:post.title' rel='noopener noreferrer external'><data:post.title/></a>
+          <b:else/>
+            <!-- (2) Show only snippets -->
+            <div class='item-title'><a class='post-popular-list' expr:href='data:post.href' expr:title='data:post.title' rel='noopener noreferrer external'><data:post.title/></a></div>
+            <div class='item-snippet'><data:post.snippet/></div>
+          </b:if>
+        <b:else/>
+          <!-- (3) Show only thumbnails or (4) Snippets and thumbnails. -->
+          <div expr:class='data:showSnippets ? &quot;item-content&quot; : &quot;item-thumbnail-only&quot;'>
+            <b:if cond='data:post.featuredImage.isResizable or data:post.thumbnail'>
+              <div class='item-thumbnail'>
+                <a expr:href='data:post.href' expr:title='data:post.title' rel='noopener noreferrer external' target='_blank'>
+                  <b:with value='data:post.featuredImage.isResizable                                  ? resizeImage(data:post.featuredImage, 72, &quot;1:1&quot;)                                  : data:post.thumbnail' var='image'>
+                    <img alt='' border='0' expr:src='data:image'/>
+                  </b:with>
+                </a>
+              </div>
+            </b:if>
+            <div class='item-title'><a expr:href='data:post.href' expr:title='data:post.title' rel='noopener noreferrer external'><data:post.title/></a></div>
+            <b:if cond='data:showSnippets'>
+              <div class='item-snippet'><data:post.snippet/></div>
+            </b:if>
+          </div>
+          <div style='clear: both;'/>
+        </b:if>
+      </li>
+      </b:loop>
+    </ul>
+                        </div>
+                      </div>
+</b:includable>
+                  </b:widget>
+                  <b:widget id='Label1' locked='false' title='Label' type='Label' version='1'>
+                    <b:widget-settings>
+                      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+                      <b:widget-setting name='display'>CLOUD</b:widget-setting>
+                      <b:widget-setting name='selectedLabelsList'/>
+                      <b:widget-setting name='showType'>ALL</b:widget-setting>
+                      <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+                    </b:widget-settings>
+                    <b:includable id='main'>
+                      <div class='bg-white rounded-md dark:bg-darker'>
+                        <div class='items-center justify-between p-4 border-b dark:border-primary'>
+                     		<b:if cond='data:title != &quot;&quot;'><span class='text-xl m-0 font-bold dark:text-light'><data:title/></span></b:if>
+                  		</div>
+  <div class='relative p-4 h-auto' style='padding-top:0'>
+    <b:if cond='data:display == &quot;list&quot;'>
+      <ul>
+        <b:loop values='data:labels' var='label'>
+          <li>
+            <b:if cond='data:blog.url == data:label.url'>
+              <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
+            <b:else/>
+              <a expr:dir='data:blog.languageDirection' expr:href='data:label.url' expr:title='&quot;Tampilkan publikasi untuk label &quot;+data:label.name'><data:label.name/></a>
+            </b:if>
+            <b:if cond='data:showFreqNumbers'>
+              <span dir='ltr'>(<data:label.count/>)</span>
+            </b:if>
+          </li>
+        </b:loop>
+      </ul>
+    <b:else/>
+      <b:loop values='data:labels' var='label'>
+          <b:if cond='data:blog.url == data:label.url'>
+            <span class='inline-flex px-2 py-1 mt-2 mr-1 font-semibold rounded text-white bg-primary-darker cursor-not-allowed' expr:dir='data:blog.languageDirection'><data:label.name/></span>
+          <b:else/>
+            <a class='inline-flex px-2 py-1 mt-2 mr-1 font-semibold rounded text-white bg-primary hover:bg-primary-dark focus:outline-none focus:ring focus:ring-primary-dark focus:ring-offset-1 focus:ring-offset-white dark:focus:ring-offset-dark' expr:dir='data:blog.languageDirection' expr:href='data:label.url' expr:title='&quot;Tampilkan publikasi untuk label &quot;+data:label.name'><data:label.name/></a>
+          </b:if>
+          <b:if cond='data:showFreqNumbers'>
+            <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
+          </b:if>
+      </b:loop>
+    </b:if>
+  </div>
+                      </div>
+</b:includable>
+                  </b:widget>
+                </b:section>
+            </aside>
+          </div>
+         <footer class='flex items-center justify-between p-4 bg-white border-t dark:bg-darker dark:border-primary-darker'>
+           <div>www.fahru.my.id &#169; 2021 - <a href='https://www.fahru.my.id/p/sitemap.html' rel='sitemap' title='sitemap www.fahru.my.id'>Sitemap</a></div><b:if cond='data:view.isPost'><a class='dmca-badge' href='//www.dmca.com/Protection/Status.aspx?ID=6e67437b-ca91-4e23-b06c-8c86830b5609' rel='nofollow noopener' target='_blank' title='DMCA.com Protection Status'> <img alt='DMCA.com Protection Status' height='24' src='https://images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=6e67437b-ca91-4e23-b06c-8c86830b5609' width='121'/></a>  <script defer='defer' src='https://images.dmca.com/Badges/DMCABadgeHelper.min.js'> </script></b:if>
+        </footer>
+    </div>
+  </div>
+
+
+          &lt;!-- Settings Panel --&gt;
+      &lt;!-- Backdrop --&gt;
+      &lt;div x-cloak x-transition:enter=&quot;transition duration-300 ease-in-out&quot; x-transition:enter-start=&quot;opacity-0&quot;
+        x-transition:enter-end=&quot;opacity-100&quot; x-transition:leave=&quot;transition duration-300 ease-in-out&quot;
+        x-transition:leave-start=&quot;opacity-100&quot; x-transition:leave-end=&quot;opacity-0&quot; x-show=&quot;isSettingsPanelOpen&quot;
+        @click=&quot;isSettingsPanelOpen = false&quot; class=&quot;fixed inset-0 z-10 bg-primary-darker&quot; style=&quot;opacity: 0.5&quot;
+        aria-hidden=&quot;true&quot;&gt;
+        &lt;/div&gt;
+      &lt;!-- Panel --&gt;
+      &lt;div x-cloak x-transition:enter=&quot;transition duration-300 ease-in-out transform sm:duration-500&quot;
+        x-transition:enter-start=&quot;translate-x-full&quot; x-transition:enter-end=&quot;translate-x-0&quot;
+        x-transition:leave=&quot;transition duration-300 ease-in-out transform sm:duration-500&quot;
+        x-transition:leave-start=&quot;translate-x-0&quot; x-transition:leave-end=&quot;translate-x-full&quot; x-ref=&quot;settingsPanel&quot;
+        tabindex=&quot;-1&quot; x-show=&quot;isSettingsPanelOpen&quot; @keydown.escape=&quot;isSettingsPanelOpen = false&quot;
+        class=&quot;fixed inset-y-0 right-0 z-20 w-full max-w-xs bg-white shadow-xl dark:bg-darker dark:text-light sm:max-w-md focus:outline-none&quot;
+        aria-labelledby=&quot;settingsPanelLabel&quot;&gt;
+        &lt;div class=&quot;absolute left-0 p-2 transform -translate-x-full&quot;&gt;
+          &lt;!-- Close button --&gt;
+          &lt;button @click=&quot;isSettingsPanelOpen = false&quot; class=&quot;p-2 text-white rounded-md focus:outline-none focus:ring&quot;&gt;
+            &lt;svg class=&quot;w-5 h-5&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot;
+              stroke=&quot;currentColor&quot;&gt;
+              &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; d=&quot;M6 18L18 6M6 6l12 12&quot; /&gt;
+            &lt;/svg&gt;
+          &lt;/button&gt;
+        &lt;/div&gt;
+        &lt;!-- Panel content --&gt;
+        &lt;div class=&quot;flex flex-col h-screen&quot;&gt;
+          &lt;!-- Panel header --&gt;
+          &lt;div
+            class=&quot;flex flex-col items-center justify-center flex-shrink-0 px-4 py-8 space-y-4 border-b dark:border-primary-dark&quot;&gt;
+            &lt;span aria-hidden=&quot;true&quot; class=&quot;text-gray-500 dark:text-primary&quot;&gt;
+              &lt;svg class=&quot;w-8 h-8&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot;
+                stroke=&quot;currentColor&quot;&gt;
+                &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot;
+                  d=&quot;M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4&quot; /&gt;
+              &lt;/svg&gt;
+            &lt;/span&gt;
+            &lt;span id=&quot;settingsPanelLabel&quot; class=&quot;text-xl font-medium text-gray-500 dark:text-light&quot;&gt;Pengaturan&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;!-- Content --&gt;
+          &lt;div class=&quot;flex-1 overflow-hidden hover:overflow-y-auto&quot;&gt;
+            &lt;!-- Theme --&gt;
+            &lt;div class=&quot;p-4 space-y-4 md:p-8&quot;&gt;
+              &lt;span class=&quot;text-lg font-medium text-gray-400 dark:text-light&quot;&gt;Mode&lt;/span&gt;
+              &lt;div class=&quot;flex items-center space-x-8&quot;&gt;
+                &lt;!-- Light button --&gt;
+                &lt;button @click=&quot;setLightTheme&quot;
+                  class=&quot;flex items-center justify-center px-4 py-2 space-x-4 transition-colors border rounded-md hover:text-gray-900 hover:border-gray-900 dark:border-primary dark:hover:text-primary-100 dark:hover:border-primary-light focus:outline-none focus:ring focus:ring-primary-lighter focus:ring-offset-2 dark:focus:ring-offset-dark dark:focus:ring-primary-dark&quot;
+                  :class=&quot;{ &#39;border-gray-900 text-gray-900 dark:border-primary-light dark:text-primary-100&#39;: !isDark, &#39;text-gray-500 dark:text-primary-light&#39;: isDark }&quot;&gt;
+                  &lt;span&gt;
+                    &lt;svg class=&quot;w-6 h-6&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot;
+                      stroke=&quot;currentColor&quot;&gt;
+                      &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot;
+                        d=&quot;M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z&quot; /&gt;
+                    &lt;/svg&gt;
+                  &lt;/span&gt;
+                  &lt;span&gt;Light&lt;/span&gt;
+                &lt;/button&gt;
+
+                &lt;!-- Dark button --&gt;
+                &lt;button @click=&quot;setDarkTheme&quot;
+                  class=&quot;flex items-center justify-center px-4 py-2 space-x-4 transition-colors border rounded-md hover:text-gray-900 hover:border-gray-900 dark:border-primary dark:hover:text-primary-100 dark:hover:border-primary-light focus:outline-none focus:ring focus:ring-primary-lighter focus:ring-offset-2 dark:focus:ring-offset-dark dark:focus:ring-primary-dark&quot;
+                  :class=&quot;{ &#39;border-gray-900 text-gray-900 dark:border-primary-light dark:text-primary-100&#39;: isDark, &#39;text-gray-500 dark:text-primary-light&#39;: !isDark }&quot;&gt;
+                  &lt;span&gt;
+                    &lt;svg class=&quot;w-6 h-6&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot;
+                      stroke=&quot;currentColor&quot;&gt;
+                      &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot;
+                        d=&quot;M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z&quot; /&gt;
+                    &lt;/svg&gt;
+                  &lt;/span&gt;
+                  &lt;span&gt;Dark&lt;/span&gt;
+                &lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+            &lt;!-- Colors --&gt;
+            &lt;div class=&quot;p-4 space-y-4 md:p-8&quot;&gt;
+              &lt;span class=&quot;text-lg font-medium text-gray-400 dark:text-light&quot;&gt;Warna&lt;/span&gt;
+              &lt;div&gt;
+                &lt;button @click=&quot;setColors(&#39;cyan&#39;)&quot; class=&quot;w-10 h-10 rounded-full&quot;
+                  style=&quot;background-color: var(--color-cyan)&quot;&gt;&lt;/button&gt;
+                &lt;button @click=&quot;setColors(&#39;teal&#39;)&quot; class=&quot;w-10 h-10 rounded-full&quot;
+                  style=&quot;background-color: var(--color-teal)&quot;&gt;&lt;/button&gt;
+                &lt;button @click=&quot;setColors(&#39;green&#39;)&quot; class=&quot;w-10 h-10 rounded-full&quot;
+                  style=&quot;background-color: var(--color-green)&quot;&gt;&lt;/button&gt;
+                &lt;button @click=&quot;setColors(&#39;fuchsia&#39;)&quot; class=&quot;w-10 h-10 rounded-full&quot;
+                  style=&quot;background-color: var(--color-fuchsia)&quot;&gt;&lt;/button&gt;
+                &lt;button @click=&quot;setColors(&#39;blue&#39;)&quot; class=&quot;w-10 h-10 rounded-full&quot;
+                  style=&quot;background-color: var(--color-blue)&quot;&gt;&lt;/button&gt;
+                &lt;button @click=&quot;setColors(&#39;violet&#39;)&quot; class=&quot;w-10 h-10 rounded-full&quot;
+                  style=&quot;background-color: var(--color-violet)&quot;&gt;&lt;/button&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;!-- Search panel --&gt;
+    &lt;!-- Backdrop --&gt;
+    &lt;div x-cloak x-transition:enter=&quot;transition duration-300 ease-in-out&quot; x-transition:enter-start=&quot;opacity-0&quot;
+      x-transition:enter-end=&quot;opacity-100&quot; x-transition:leave=&quot;transition duration-300 ease-in-out&quot;
+      x-transition:leave-start=&quot;opacity-100&quot; x-transition:leave-end=&quot;opacity-0&quot; x-show=&quot;isSearchPanelOpen&quot;
+      @click=&quot;isSearchPanelOpen = false&quot; class=&quot;fixed inset-0 z-10 bg-primary-darker&quot; style=&quot;opacity: 0.5&quot;
+      aria-hidden=&quot;ture&quot;&gt;&lt;/div&gt;
+    &lt;!-- Panel --&gt;
+    &lt;div x-cloak x-transition:enter=&quot;transition duration-300 ease-in-out transform sm:duration-500&quot;
+      x-transition:enter-start=&quot;-translate-x-full&quot; x-transition:enter-end=&quot;translate-x-0&quot;
+      x-transition:leave=&quot;transition duration-300 ease-in-out transform sm:duration-500&quot; x-ref=&quot;searchInput&quot;
+      x-transition:leave-start=&quot;translate-x-0&quot; x-transition:leave-end=&quot;-translate-x-full&quot; x-show=&quot;isSearchPanelOpen&quot;
+      @keydown.escape=&quot;isSearchPanelOpen = false&quot;
+      class=&quot;fixed inset-y-0 z-20 w-full max-w-xs bg-white shadow-xl dark:bg-darker dark:text-light sm:max-w-md focus:outline-none&quot;&gt;
+      &lt;div class=&quot;absolute right-0 p-2 transform translate-x-full&quot;&gt;
+        &lt;!-- Close button --&gt;
+        &lt;button @click=&quot;isSearchPanelOpen = false&quot; class=&quot;p-2 text-white rounded-md focus:outline-none focus:ring&quot;&gt;
+          &lt;svg class=&quot;w-5 h-5&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke=&quot;currentColor&quot;&gt;
+            &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; d=&quot;M6 18L18 6M6 6l12 12&quot; /&gt;
+          &lt;/svg&gt;
+        &lt;/button&gt;
+      &lt;/div&gt;
+
+      &lt;span class=&quot;sr-only&quot;&gt;Search panel&lt;/span&gt;
+      &lt;!-- Panel content --&gt;
+      &lt;div class=&quot;flex flex-col h-screen&quot;&gt;
+        &lt;!-- Panel header (Search input) --&gt;
+    <div class='p-4'><div class='gcse-searchbox'/></div>
+    <div class='h-full overflow-auto scrollbar-thin'><div class='gcse-searchresults'/></div>
+      &lt;/div&gt;
+    &lt;/div&gt;
+</div>
+<script type='text/javascript'>
+    const setup = () =&gt; {
+      const getTheme = () =&gt; {
+        if (window.localStorage.getItem(&#39;dark&#39;)) {
+          return JSON.parse(window.localStorage.getItem(&#39;dark&#39;))
+        }
+
+        return false
+      }
+
+      const setTheme = (value) =&gt; {
+        window.localStorage.setItem(&#39;dark&#39;, value)
+        document.getElementById(&quot;set-theme&quot;).classList.toggle(&quot;dark&quot;, value)
+      }
+
+      const getColor = () =&gt; {
+        if (window.localStorage.getItem(&#39;color&#39;)) {
+            return window.localStorage.getItem(&#39;color&#39;)
+          }
+          return &#39;blue&#39;
+      }
+
+      const setColors = (color) =&gt; {
+        const root = document.documentElement
+        root.style.setProperty(&#39;--color-primary&#39;, `var(--color-${color})`)
+        root.style.setProperty(&#39;--color-primary-50&#39;, `var(--color-${color}-50)`)
+        root.style.setProperty(&#39;--color-primary-100&#39;, `var(--color-${color}-100)`)
+        root.style.setProperty(&#39;--color-primary-light&#39;, `var(--color-${color}-light)`)
+        root.style.setProperty(&#39;--color-primary-lighter&#39;, `var(--color-${color}-lighter)`)
+        root.style.setProperty(&#39;--color-primary-dark&#39;, `var(--color-${color}-dark)`)
+        root.style.setProperty(&#39;--color-primary-darker&#39;, `var(--color-${color}-darker)`)
+        this.selectedColor = color
+        window.localStorage.setItem(&#39;color&#39;, color)
+      }
+
+      return {
+        isDark: getTheme(),
+        toggleTheme() {
+          this.isDark = !this.isDark
+          setTheme(this.isDark)
+        },
+        setLightTheme() {
+          this.isDark = false
+          setTheme(this.isDark)
+        },
+        setDarkTheme() {
+          this.isDark = true
+          setTheme(this.isDark)
+        },
+        color: getColor(),
+        selectedColor: &#39;blue&#39;,
+        setColors,
+        toggleSidbarMenu() {
+          this.isSidebarOpen = !this.isSidebarOpen
+        },
+        isSettingsPanelOpen: false,
+        openSettingsPanel() {
+          this.isSettingsPanelOpen = true
+          this.$nextTick(() =&gt; {
+            this.$refs.settingsPanel.focus()
+          })
+        },
+        isSearchPanelOpen: false,
+        openSearchPanel() {
+          this.isSearchPanelOpen = true
+          this.$nextTick(() =&gt; {
+            this.$refs.searchInput.focus()
+          })
+        },
+        isMobileSubMenuOpen: false,
+        openMobileSubMenu() {
+          this.isMobileSubMenuOpen = true
+          this.$nextTick(() =&gt; {
+            this.$refs.mobileSubMenu.focus()
+          })
+        },
+        isMobileMainMenuOpen: false,
+        openMobileMainMenu() {
+          this.isMobileMainMenuOpen = true
+          this.$nextTick(() =&gt; {
+            this.$refs.mobileMainMenu.focus()
+          })
+        }
+      }
+    }
+</script>
+
+<b:if cond='data:view.isMultipleItems'>
+  <script type='text/javascript'> //<![CDATA[
+    /* Page Navigation with Number */
+    var postperpage = 8;
+    var numshowpage = 3;
+    var upPageWord = '◀';
+    var downPageWord = '▶';
+    var urlactivepage = window.location.href;
+    var home_page= '/';
+	if (typeof cleanText !== 'undefined'){var lblname1 = cleanText;}
+  //]]></script>
+    <script defer='defer' src='https://gistcdn.rawgit.org/elfaro1453/fad7cc7916347694deb64948e2cd1167/5df6e82785eadbfde464f9167941560e38c1d28b/pagination2.js' type='text/javascript'/>
+    <b:else/>
+    <script type='text/javascript'>
+var entryContent = document.getElementsByClassName(&quot;entry-content&quot;)[0];
+var elementsA = entryContent.getElementsByTagName(&quot;a&quot;);
+var elementsPre = entryContent.getElementsByTagName(&quot;pre&quot;);
+var elementsTable = entryContent.getElementsByTagName(&quot;table&quot;);
+var elementsCode = entryContent.getElementsByTagName(&quot;code&quot;);
+var elementsBlockquote = entryContent.getElementsByTagName(&quot;blockquote&quot;);
+var elementsImage = entryContent.getElementsByTagName(&quot;img&quot;);
+var elementsSeparator = entryContent.getElementsByClassName(&quot;separator&quot;);
+for (var i=0; i&lt;elementsA.length; i++) {elementsA[i].classList.add(&#39;underline&#39;,&#39;font-semibold&#39;,&#39;hover:font-bold&#39;);}for (var i=0; i&lt;elementsPre.length; i++) {elementsPre[i].classList.add(&#39;whitespace-pre-wrap&#39;,&#39;p-2&#39;,&#39;rounded-xl&#39;,&#39;bg-light&#39;);}for (var i=0; i&lt;elementsTable.length; i++) {  elementsTable[i].classList.add(&#39;w-full&#39;);}for (var i=0; i&lt;elementsCode.length; i++) {  elementsCode[i].classList.add(&#39;bg-light&#39;,&#39;text-primary-dark&#39;);}for (var i=0; i&lt;elementsBlockquote.length; i++) {  elementsBlockquote[i].classList.add(&#39;text-lg&#39;,&#39;font-semibold&#39;);}for (var i=0; i&lt;elementsImage.length; i++) {  elementsImage[i].classList.add(&#39;mx-auto&#39;,&#39;rounded-xl&#39;);}for (var i=0; i&lt;elementsSeparator.length; i++) {  elementsSeparator[i].classList.add(&#39;my-2&#39;);}docReady(function(){const getTitle=e=&gt;fetch(e).then(e=&gt;e.text()).then(e=&gt;{return(new DOMParser).parseFromString(e,&quot;text/html&quot;).querySelectorAll(&quot;title&quot;)[0].innerText}),replaceBlogName=e=&gt;e.replace(&quot; | <data:blog.title/>&quot;,&quot;&quot;);var olderLinkPagination=document.getElementById(&quot;Blog1_blog-pager-older-link&quot;),newerLinkPagination=document.getElementById(&quot;Blog1_blog-pager-newer-link&quot;);if(newerLinkPagination){getTitle(newerLinkPagination.getAttribute(&quot;a-href&quot;)).then(e=&gt;{newerLinkPagination.innerHTML=replaceBlogName(e)+&quot; &#9654;&quot;})}if(olderLinkPagination){getTitle(olderLinkPagination.getAttribute(&quot;a-href&quot;)).then(e=&gt;{olderLinkPagination.innerHTML=&quot;&#9664; &quot;+replaceBlogName(e)})}});docReady(function(){var script=document.createElement(&#39;script&#39;);script.async=!0,script.src=&#39;https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.7.2/build/highlight.min.js&#39;;var firstScriptTag=document.getElementsByTagName(&#39;script&#39;)[0];firstScriptTag.parentNode.insertBefore(script,firstScriptTag)})</script><script type='module'>;window.addEventListener(&quot;load&quot;, function(){hljs.highlightAll();});var scrollTrigger=document.getElementById(&quot;scroll-trigger&quot;),lazyadsense=!1;scrollTrigger.addEventListener(&quot;scroll&quot;,function(){0!=scrollTrigger.scrollTop&amp;&amp;lazyadsense===!1&amp;&amp;(!function(){var script=document.createElement(&quot;script&quot;);script.async=!0,script.src=&quot;https://&quot;,script.setAttribute(&quot;data-ad-client&quot;,&quot;ca-pub-2337694132800609&quot;);var firstScriptTag=document.getElementsByTagName(&quot;script&quot;)[0];firstScriptTag.parentNode.insertBefore(script,firstScriptTag);}(),lazyadsense=!0)},!0);</script></b:if><script>var googlecseadded=!1;document.body.addEventListener(&quot;click&quot;,function(){googlecseadded||(!function(){var script=document.createElement(&quot;script&quot;);script.async=!0,script.src=&quot;https://cse.google.com/cse.js?cx=e2c8e817369406ff4&quot;;var firstScriptTag=document.getElementsByTagName(&quot;script&quot;)[0];firstScriptTag.parentNode.insertBefore(script,firstScriptTag)}(),googlecseadded=!0)},!0);var scrollTrigger=document.getElementById(&quot;scroll-trigger&quot;),lazyfacebook=!1;scrollTrigger.addEventListener(&quot;scroll&quot;,function(){0!=scrollTrigger.scrollTop&amp;&amp;lazyfacebook===!1&amp;&amp;(!function(){var firstScriptTag=document.getElementsByTagName(&quot;script&quot;)[0];var script=document.createElement(&quot;script&quot;);script.async=!0,script.src=&quot;https://connect.facebook.net/id_ID/sdk.js#xfbml=1&amp;version=v10.0&amp;appId=2219194634994182&amp;autoLogAppEvents=1&quot;,script.setAttribute(&#39;nonce&#39;, &#39;YpUTLS5I&#39;);firstScriptTag.parentNode.insertBefore(script,firstScriptTag);}(),lazyfacebook=!0)},!0);</script>
+&lt;!--</body>--&gt;&lt;/body&gt;
+</html>
